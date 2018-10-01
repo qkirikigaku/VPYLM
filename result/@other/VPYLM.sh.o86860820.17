@@ -1,0 +1,7509 @@
+-------------------
+Setting Upstream...
+-------------------
+---------------
+Sampling Start.
+---------------
+iteration : 0
+depth distribution
+0 : 869
+1 : 1416
+2 : 779
+3 : 389
+4 : 234
+5 : 150
+6 : 191
+7 : 156
+8 : 140
+9 : 85
+10 : 591
+completed
+
+iteration : 1
+depth distribution
+0 : 264
+1 : 1501
+2 : 833
+3 : 600
+4 : 399
+5 : 285
+6 : 332
+7 : 267
+8 : 180
+9 : 115
+10 : 224
+completed
+
+iteration : 2
+depth distribution
+0 : 67
+1 : 1413
+2 : 752
+3 : 816
+4 : 509
+5 : 356
+6 : 379
+7 : 316
+8 : 159
+9 : 106
+10 : 127
+completed
+
+iteration : 3
+depth distribution
+0 : 19
+1 : 1202
+2 : 785
+3 : 989
+4 : 620
+5 : 422
+6 : 343
+7 : 287
+8 : 145
+9 : 87
+10 : 101
+completed
+
+iteration : 4
+depth distribution
+0 : 3
+1 : 978
+2 : 755
+3 : 1134
+4 : 833
+5 : 452
+6 : 325
+7 : 249
+8 : 123
+9 : 81
+10 : 67
+completed
+
+iteration : 5
+depth distribution
+0 : 3
+1 : 826
+2 : 743
+3 : 1275
+4 : 868
+5 : 446
+6 : 312
+7 : 251
+8 : 115
+9 : 98
+10 : 63
+completed
+
+iteration : 6
+depth distribution
+0 : 1
+1 : 728
+2 : 737
+3 : 1325
+4 : 950
+5 : 427
+6 : 331
+7 : 239
+8 : 117
+9 : 96
+10 : 49
+completed
+
+iteration : 7
+depth distribution
+0 : 0
+1 : 609
+2 : 677
+3 : 1490
+4 : 1006
+5 : 425
+6 : 299
+7 : 239
+8 : 126
+9 : 72
+10 : 57
+completed
+
+iteration : 8
+depth distribution
+0 : 0
+1 : 562
+2 : 636
+3 : 1587
+4 : 1017
+5 : 396
+6 : 249
+7 : 294
+8 : 111
+9 : 84
+10 : 64
+completed
+
+iteration : 9
+depth distribution
+0 : 1
+1 : 467
+2 : 531
+3 : 1714
+4 : 1071
+5 : 420
+6 : 260
+7 : 262
+8 : 117
+9 : 85
+10 : 72
+completed
+
+iteration : 10
+depth distribution
+0 : 2
+1 : 368
+2 : 466
+3 : 1789
+4 : 1148
+5 : 435
+6 : 266
+7 : 228
+8 : 131
+9 : 99
+10 : 68
+completed
+
+iteration : 11
+depth distribution
+0 : 4
+1 : 312
+2 : 455
+3 : 1816
+4 : 1232
+5 : 384
+6 : 265
+7 : 249
+8 : 124
+9 : 92
+10 : 67
+completed
+
+iteration : 12
+depth distribution
+0 : 5
+1 : 282
+2 : 406
+3 : 1930
+4 : 1245
+5 : 365
+6 : 255
+7 : 215
+8 : 132
+9 : 107
+10 : 58
+completed
+
+iteration : 13
+depth distribution
+0 : 0
+1 : 247
+2 : 328
+3 : 2044
+4 : 1225
+5 : 345
+6 : 250
+7 : 249
+8 : 147
+9 : 100
+10 : 65
+completed
+
+iteration : 14
+depth distribution
+0 : 0
+1 : 203
+2 : 343
+3 : 2118
+4 : 1180
+5 : 379
+6 : 267
+7 : 225
+8 : 127
+9 : 86
+10 : 72
+completed
+
+iteration : 15
+depth distribution
+0 : 1
+1 : 166
+2 : 325
+3 : 2181
+4 : 1108
+5 : 407
+6 : 277
+7 : 205
+8 : 141
+9 : 100
+10 : 89
+completed
+
+iteration : 16
+depth distribution
+0 : 2
+1 : 114
+2 : 334
+3 : 2208
+4 : 1107
+5 : 386
+6 : 290
+7 : 243
+8 : 140
+9 : 101
+10 : 75
+completed
+
+iteration : 17
+depth distribution
+0 : 2
+1 : 93
+2 : 277
+3 : 2216
+4 : 1166
+5 : 406
+6 : 310
+7 : 220
+8 : 148
+9 : 96
+10 : 66
+completed
+
+iteration : 18
+depth distribution
+0 : 0
+1 : 90
+2 : 254
+3 : 2284
+4 : 1040
+5 : 410
+6 : 375
+7 : 227
+8 : 145
+9 : 101
+10 : 74
+completed
+
+iteration : 19
+depth distribution
+0 : 2
+1 : 71
+2 : 263
+3 : 2287
+4 : 1086
+5 : 382
+6 : 343
+7 : 228
+8 : 150
+9 : 107
+10 : 81
+completed
+
+iteration : 20
+depth distribution
+0 : 0
+1 : 59
+2 : 224
+3 : 2384
+4 : 1085
+5 : 395
+6 : 325
+7 : 208
+8 : 154
+9 : 96
+10 : 70
+completed
+
+iteration : 21
+depth distribution
+0 : 0
+1 : 43
+2 : 239
+3 : 2487
+4 : 1090
+5 : 381
+6 : 287
+7 : 177
+8 : 128
+9 : 91
+10 : 77
+completed
+
+iteration : 22
+depth distribution
+0 : 0
+1 : 39
+2 : 196
+3 : 2531
+4 : 1129
+5 : 374
+6 : 282
+7 : 186
+8 : 113
+9 : 80
+10 : 70
+completed
+
+iteration : 23
+depth distribution
+0 : 0
+1 : 38
+2 : 167
+3 : 2686
+4 : 1043
+5 : 351
+6 : 226
+7 : 139
+8 : 151
+9 : 105
+10 : 94
+completed
+
+iteration : 24
+depth distribution
+0 : 1
+1 : 46
+2 : 151
+3 : 2792
+4 : 1017
+5 : 340
+6 : 174
+7 : 154
+8 : 136
+9 : 91
+10 : 98
+completed
+
+iteration : 25
+depth distribution
+0 : 2
+1 : 46
+2 : 135
+3 : 2789
+4 : 1043
+5 : 358
+6 : 196
+7 : 148
+8 : 106
+9 : 86
+10 : 91
+completed
+
+iteration : 26
+depth distribution
+0 : 2
+1 : 53
+2 : 133
+3 : 2797
+4 : 1059
+5 : 342
+6 : 171
+7 : 167
+8 : 110
+9 : 85
+10 : 81
+completed
+
+iteration : 27
+depth distribution
+0 : 0
+1 : 41
+2 : 117
+3 : 2955
+4 : 962
+5 : 345
+6 : 173
+7 : 135
+8 : 113
+9 : 74
+10 : 85
+completed
+
+iteration : 28
+depth distribution
+0 : 0
+1 : 42
+2 : 126
+3 : 2990
+4 : 913
+5 : 330
+6 : 178
+7 : 135
+8 : 112
+9 : 97
+10 : 77
+completed
+
+iteration : 29
+depth distribution
+0 : 0
+1 : 50
+2 : 117
+3 : 3052
+4 : 951
+5 : 285
+6 : 154
+7 : 129
+8 : 91
+9 : 84
+10 : 87
+completed
+
+iteration : 30
+depth distribution
+0 : 1
+1 : 44
+2 : 112
+3 : 3112
+4 : 917
+5 : 308
+6 : 117
+7 : 127
+8 : 91
+9 : 89
+10 : 82
+completed
+
+iteration : 31
+depth distribution
+0 : 0
+1 : 35
+2 : 126
+3 : 3120
+4 : 902
+5 : 295
+6 : 128
+7 : 114
+8 : 98
+9 : 93
+10 : 89
+completed
+
+iteration : 32
+depth distribution
+0 : 0
+1 : 37
+2 : 134
+3 : 3102
+4 : 879
+5 : 293
+6 : 148
+7 : 122
+8 : 104
+9 : 89
+10 : 92
+completed
+
+iteration : 33
+depth distribution
+0 : 0
+1 : 39
+2 : 97
+3 : 3063
+4 : 942
+5 : 295
+6 : 177
+7 : 120
+8 : 97
+9 : 83
+10 : 87
+completed
+
+iteration : 34
+depth distribution
+0 : 0
+1 : 48
+2 : 111
+3 : 3000
+4 : 941
+5 : 300
+6 : 166
+7 : 124
+8 : 112
+9 : 101
+10 : 97
+completed
+
+iteration : 35
+depth distribution
+0 : 0
+1 : 27
+2 : 121
+3 : 3008
+4 : 924
+5 : 331
+6 : 148
+7 : 131
+8 : 104
+9 : 112
+10 : 94
+completed
+
+iteration : 36
+depth distribution
+0 : 2
+1 : 25
+2 : 106
+3 : 3023
+4 : 884
+5 : 310
+6 : 156
+7 : 141
+8 : 137
+9 : 119
+10 : 97
+completed
+
+iteration : 37
+depth distribution
+0 : 3
+1 : 45
+2 : 77
+3 : 2986
+4 : 954
+5 : 300
+6 : 142
+7 : 137
+8 : 141
+9 : 112
+10 : 103
+completed
+
+iteration : 38
+depth distribution
+0 : 4
+1 : 40
+2 : 65
+3 : 2978
+4 : 970
+5 : 321
+6 : 153
+7 : 136
+8 : 122
+9 : 131
+10 : 80
+completed
+
+iteration : 39
+depth distribution
+0 : 7
+1 : 44
+2 : 58
+3 : 3064
+4 : 935
+5 : 298
+6 : 153
+7 : 113
+8 : 105
+9 : 117
+10 : 106
+completed
+
+iteration : 40
+depth distribution
+0 : 6
+1 : 48
+2 : 50
+3 : 3143
+4 : 868
+5 : 265
+6 : 167
+7 : 123
+8 : 118
+9 : 95
+10 : 117
+completed
+
+iteration : 41
+depth distribution
+0 : 4
+1 : 31
+2 : 71
+3 : 3178
+4 : 894
+5 : 238
+6 : 138
+7 : 111
+8 : 105
+9 : 108
+10 : 122
+completed
+
+iteration : 42
+depth distribution
+0 : 4
+1 : 67
+2 : 108
+3 : 3125
+4 : 857
+5 : 243
+6 : 138
+7 : 123
+8 : 115
+9 : 121
+10 : 99
+completed
+
+iteration : 43
+depth distribution
+0 : 1
+1 : 83
+2 : 99
+3 : 3140
+4 : 847
+5 : 230
+6 : 132
+7 : 119
+8 : 115
+9 : 118
+10 : 116
+completed
+
+iteration : 44
+depth distribution
+0 : 1
+1 : 56
+2 : 80
+3 : 3113
+4 : 829
+5 : 251
+6 : 145
+7 : 139
+8 : 109
+9 : 161
+10 : 116
+completed
+
+iteration : 45
+depth distribution
+0 : 0
+1 : 41
+2 : 60
+3 : 3069
+4 : 828
+5 : 299
+6 : 159
+7 : 144
+8 : 108
+9 : 171
+10 : 121
+completed
+
+iteration : 46
+depth distribution
+0 : 0
+1 : 13
+2 : 70
+3 : 3061
+4 : 838
+5 : 296
+6 : 169
+7 : 146
+8 : 123
+9 : 169
+10 : 115
+completed
+
+iteration : 47
+depth distribution
+0 : 2
+1 : 15
+2 : 70
+3 : 3038
+4 : 852
+5 : 256
+6 : 182
+7 : 131
+8 : 120
+9 : 188
+10 : 146
+completed
+
+iteration : 48
+depth distribution
+0 : 2
+1 : 14
+2 : 78
+3 : 2951
+4 : 866
+5 : 251
+6 : 248
+7 : 152
+8 : 122
+9 : 173
+10 : 143
+completed
+
+iteration : 49
+depth distribution
+0 : 2
+1 : 16
+2 : 88
+3 : 2967
+4 : 864
+5 : 222
+6 : 202
+7 : 151
+8 : 156
+9 : 194
+10 : 138
+completed
+
+iteration : 50
+depth distribution
+0 : 1
+1 : 30
+2 : 90
+3 : 2877
+4 : 864
+5 : 280
+6 : 192
+7 : 152
+8 : 163
+9 : 202
+10 : 149
+completed
+
+iteration : 51
+depth distribution
+0 : 0
+1 : 28
+2 : 116
+3 : 2877
+4 : 927
+5 : 225
+6 : 177
+7 : 158
+8 : 151
+9 : 197
+10 : 144
+completed
+
+iteration : 52
+depth distribution
+0 : 0
+1 : 26
+2 : 91
+3 : 2938
+4 : 896
+5 : 222
+6 : 193
+7 : 155
+8 : 159
+9 : 192
+10 : 128
+completed
+
+iteration : 53
+depth distribution
+0 : 0
+1 : 26
+2 : 90
+3 : 2958
+4 : 877
+5 : 229
+6 : 192
+7 : 135
+8 : 174
+9 : 169
+10 : 150
+completed
+
+iteration : 54
+depth distribution
+0 : 1
+1 : 27
+2 : 114
+3 : 2925
+4 : 873
+5 : 274
+6 : 171
+7 : 115
+8 : 195
+9 : 166
+10 : 139
+completed
+
+iteration : 55
+depth distribution
+0 : 1
+1 : 36
+2 : 141
+3 : 2907
+4 : 891
+5 : 254
+6 : 182
+7 : 110
+8 : 191
+9 : 173
+10 : 114
+completed
+
+iteration : 56
+depth distribution
+0 : 2
+1 : 34
+2 : 150
+3 : 2919
+4 : 916
+5 : 207
+6 : 176
+7 : 123
+8 : 187
+9 : 169
+10 : 117
+completed
+
+iteration : 57
+depth distribution
+0 : 0
+1 : 27
+2 : 136
+3 : 2958
+4 : 879
+5 : 180
+6 : 190
+7 : 134
+8 : 203
+9 : 175
+10 : 118
+completed
+
+iteration : 58
+depth distribution
+0 : 2
+1 : 29
+2 : 95
+3 : 2917
+4 : 875
+5 : 219
+6 : 220
+7 : 120
+8 : 213
+9 : 183
+10 : 127
+completed
+
+iteration : 59
+depth distribution
+0 : 0
+1 : 50
+2 : 105
+3 : 2959
+4 : 860
+5 : 190
+6 : 183
+7 : 126
+8 : 200
+9 : 195
+10 : 132
+completed
+
+iteration : 60
+depth distribution
+0 : 1
+1 : 47
+2 : 111
+3 : 2982
+4 : 813
+5 : 205
+6 : 166
+7 : 113
+8 : 246
+9 : 182
+10 : 134
+completed
+
+iteration : 61
+depth distribution
+0 : 0
+1 : 41
+2 : 111
+3 : 3035
+4 : 807
+5 : 204
+6 : 161
+7 : 103
+8 : 248
+9 : 169
+10 : 121
+completed
+
+iteration : 62
+depth distribution
+0 : 0
+1 : 34
+2 : 113
+3 : 3031
+4 : 816
+5 : 219
+6 : 166
+7 : 115
+8 : 245
+9 : 145
+10 : 116
+completed
+
+iteration : 63
+depth distribution
+0 : 0
+1 : 40
+2 : 117
+3 : 3036
+4 : 808
+5 : 199
+6 : 147
+7 : 121
+8 : 250
+9 : 152
+10 : 130
+completed
+
+iteration : 64
+depth distribution
+0 : 0
+1 : 43
+2 : 111
+3 : 3036
+4 : 845
+5 : 192
+6 : 133
+7 : 113
+8 : 236
+9 : 168
+10 : 123
+completed
+
+iteration : 65
+depth distribution
+0 : 0
+1 : 35
+2 : 117
+3 : 3058
+4 : 840
+5 : 180
+6 : 145
+7 : 131
+8 : 182
+9 : 166
+10 : 146
+completed
+
+iteration : 66
+depth distribution
+0 : 0
+1 : 16
+2 : 97
+3 : 3030
+4 : 865
+5 : 193
+6 : 118
+7 : 136
+8 : 229
+9 : 184
+10 : 132
+completed
+
+iteration : 67
+depth distribution
+0 : 1
+1 : 9
+2 : 103
+3 : 3014
+4 : 897
+5 : 214
+6 : 147
+7 : 103
+8 : 231
+9 : 147
+10 : 134
+completed
+
+iteration : 68
+depth distribution
+0 : 0
+1 : 8
+2 : 129
+3 : 2956
+4 : 893
+5 : 183
+6 : 150
+7 : 128
+8 : 239
+9 : 186
+10 : 128
+completed
+
+iteration : 69
+depth distribution
+0 : 0
+1 : 9
+2 : 120
+3 : 2899
+4 : 920
+5 : 213
+6 : 120
+7 : 133
+8 : 261
+9 : 148
+10 : 177
+completed
+
+iteration : 70
+depth distribution
+0 : 0
+1 : 15
+2 : 114
+3 : 2880
+4 : 916
+5 : 233
+6 : 122
+7 : 137
+8 : 252
+9 : 170
+10 : 161
+completed
+
+iteration : 71
+depth distribution
+0 : 0
+1 : 13
+2 : 130
+3 : 2816
+4 : 940
+5 : 224
+6 : 136
+7 : 146
+8 : 270
+9 : 159
+10 : 166
+completed
+
+iteration : 72
+depth distribution
+0 : 0
+1 : 12
+2 : 108
+3 : 2844
+4 : 968
+5 : 231
+6 : 158
+7 : 144
+8 : 242
+9 : 165
+10 : 128
+completed
+
+iteration : 73
+depth distribution
+0 : 0
+1 : 6
+2 : 84
+3 : 2890
+4 : 911
+5 : 214
+6 : 169
+7 : 163
+8 : 212
+9 : 190
+10 : 161
+completed
+
+iteration : 74
+depth distribution
+0 : 0
+1 : 14
+2 : 100
+3 : 2943
+4 : 879
+5 : 222
+6 : 157
+7 : 140
+8 : 230
+9 : 177
+10 : 138
+completed
+
+iteration : 75
+depth distribution
+0 : 0
+1 : 13
+2 : 95
+3 : 2972
+4 : 888
+5 : 241
+6 : 129
+7 : 129
+8 : 234
+9 : 176
+10 : 123
+completed
+
+iteration : 76
+depth distribution
+0 : 0
+1 : 14
+2 : 75
+3 : 3027
+4 : 879
+5 : 187
+6 : 147
+7 : 125
+8 : 242
+9 : 187
+10 : 117
+completed
+
+iteration : 77
+depth distribution
+0 : 0
+1 : 12
+2 : 63
+3 : 2993
+4 : 916
+5 : 194
+6 : 140
+7 : 119
+8 : 228
+9 : 201
+10 : 134
+completed
+
+iteration : 78
+depth distribution
+0 : 0
+1 : 10
+2 : 60
+3 : 2954
+4 : 901
+5 : 214
+6 : 165
+7 : 139
+8 : 222
+9 : 167
+10 : 168
+completed
+
+iteration : 79
+depth distribution
+0 : 0
+1 : 15
+2 : 67
+3 : 2955
+4 : 902
+5 : 206
+6 : 167
+7 : 129
+8 : 259
+9 : 165
+10 : 135
+completed
+
+iteration : 80
+depth distribution
+0 : 0
+1 : 9
+2 : 42
+3 : 2936
+4 : 910
+5 : 210
+6 : 170
+7 : 150
+8 : 243
+9 : 199
+10 : 131
+completed
+
+iteration : 81
+depth distribution
+0 : 0
+1 : 21
+2 : 52
+3 : 2967
+4 : 824
+5 : 222
+6 : 172
+7 : 145
+8 : 250
+9 : 192
+10 : 155
+completed
+
+iteration : 82
+depth distribution
+0 : 1
+1 : 18
+2 : 91
+3 : 2926
+4 : 804
+5 : 203
+6 : 156
+7 : 157
+8 : 272
+9 : 218
+10 : 154
+completed
+
+iteration : 83
+depth distribution
+0 : 0
+1 : 14
+2 : 98
+3 : 2906
+4 : 798
+5 : 218
+6 : 151
+7 : 144
+8 : 277
+9 : 237
+10 : 157
+completed
+
+iteration : 84
+depth distribution
+0 : 0
+1 : 13
+2 : 86
+3 : 2863
+4 : 803
+5 : 234
+6 : 152
+7 : 124
+8 : 288
+9 : 247
+10 : 190
+completed
+
+iteration : 85
+depth distribution
+0 : 0
+1 : 21
+2 : 71
+3 : 2899
+4 : 778
+5 : 281
+6 : 131
+7 : 127
+8 : 313
+9 : 208
+10 : 171
+completed
+
+iteration : 86
+depth distribution
+0 : 3
+1 : 11
+2 : 67
+3 : 3011
+4 : 677
+5 : 256
+6 : 147
+7 : 142
+8 : 328
+9 : 185
+10 : 173
+completed
+
+iteration : 87
+depth distribution
+0 : 1
+1 : 10
+2 : 59
+3 : 2989
+4 : 673
+5 : 257
+6 : 172
+7 : 139
+8 : 310
+9 : 206
+10 : 184
+completed
+
+iteration : 88
+depth distribution
+0 : 2
+1 : 16
+2 : 45
+3 : 3067
+4 : 655
+5 : 225
+6 : 175
+7 : 128
+8 : 313
+9 : 216
+10 : 158
+completed
+
+iteration : 89
+depth distribution
+0 : 3
+1 : 21
+2 : 37
+3 : 3137
+4 : 576
+5 : 229
+6 : 174
+7 : 137
+8 : 325
+9 : 215
+10 : 146
+completed
+
+iteration : 90
+depth distribution
+0 : 1
+1 : 28
+2 : 29
+3 : 3153
+4 : 586
+5 : 186
+6 : 138
+7 : 182
+8 : 321
+9 : 205
+10 : 171
+completed
+
+iteration : 91
+depth distribution
+0 : 3
+1 : 18
+2 : 27
+3 : 3207
+4 : 580
+5 : 193
+6 : 147
+7 : 155
+8 : 329
+9 : 194
+10 : 147
+completed
+
+iteration : 92
+depth distribution
+0 : 2
+1 : 20
+2 : 33
+3 : 3144
+4 : 590
+5 : 223
+6 : 142
+7 : 153
+8 : 330
+9 : 205
+10 : 158
+completed
+
+iteration : 93
+depth distribution
+0 : 1
+1 : 21
+2 : 44
+3 : 3084
+4 : 625
+5 : 237
+6 : 132
+7 : 169
+8 : 290
+9 : 226
+10 : 171
+completed
+
+iteration : 94
+depth distribution
+0 : 1
+1 : 13
+2 : 50
+3 : 3076
+4 : 588
+5 : 231
+6 : 176
+7 : 166
+8 : 323
+9 : 212
+10 : 164
+completed
+
+iteration : 95
+depth distribution
+0 : 0
+1 : 15
+2 : 98
+3 : 3031
+4 : 633
+5 : 262
+6 : 145
+7 : 145
+8 : 302
+9 : 210
+10 : 159
+completed
+
+iteration : 96
+depth distribution
+0 : 0
+1 : 28
+2 : 114
+3 : 3015
+4 : 614
+5 : 268
+6 : 167
+7 : 130
+8 : 274
+9 : 205
+10 : 185
+completed
+
+iteration : 97
+depth distribution
+0 : 0
+1 : 29
+2 : 96
+3 : 2954
+4 : 723
+5 : 251
+6 : 150
+7 : 120
+8 : 316
+9 : 213
+10 : 148
+completed
+
+iteration : 98
+depth distribution
+0 : 1
+1 : 39
+2 : 111
+3 : 3000
+4 : 723
+5 : 235
+6 : 146
+7 : 136
+8 : 283
+9 : 190
+10 : 136
+completed
+
+iteration : 99
+depth distribution
+0 : 3
+1 : 25
+2 : 101
+3 : 2964
+4 : 714
+5 : 224
+6 : 142
+7 : 118
+8 : 296
+9 : 230
+10 : 183
+completed
+
+iteration : 100
+depth distribution
+0 : 2
+1 : 15
+2 : 75
+3 : 3038
+4 : 641
+5 : 212
+6 : 185
+7 : 109
+8 : 332
+9 : 223
+10 : 168
+completed
+
+iteration : 101
+depth distribution
+0 : 1
+1 : 19
+2 : 96
+3 : 3065
+4 : 595
+5 : 211
+6 : 181
+7 : 128
+8 : 330
+9 : 209
+10 : 165
+completed
+
+iteration : 102
+depth distribution
+0 : 0
+1 : 32
+2 : 129
+3 : 3003
+4 : 622
+5 : 211
+6 : 202
+7 : 119
+8 : 325
+9 : 174
+10 : 183
+completed
+
+iteration : 103
+depth distribution
+0 : 0
+1 : 42
+2 : 130
+3 : 2931
+4 : 623
+5 : 246
+6 : 200
+7 : 151
+8 : 301
+9 : 223
+10 : 153
+completed
+
+iteration : 104
+depth distribution
+0 : 0
+1 : 34
+2 : 151
+3 : 2859
+4 : 675
+5 : 234
+6 : 191
+7 : 161
+8 : 288
+9 : 219
+10 : 188
+completed
+
+iteration : 105
+depth distribution
+0 : 3
+1 : 28
+2 : 201
+3 : 2850
+4 : 677
+5 : 232
+6 : 183
+7 : 136
+8 : 299
+9 : 218
+10 : 173
+completed
+
+iteration : 106
+depth distribution
+0 : 5
+1 : 30
+2 : 213
+3 : 2822
+4 : 701
+5 : 212
+6 : 198
+7 : 154
+8 : 297
+9 : 207
+10 : 161
+completed
+
+iteration : 107
+depth distribution
+0 : 5
+1 : 23
+2 : 168
+3 : 2849
+4 : 763
+5 : 200
+6 : 175
+7 : 145
+8 : 311
+9 : 180
+10 : 181
+completed
+
+iteration : 108
+depth distribution
+0 : 2
+1 : 19
+2 : 183
+3 : 2866
+4 : 775
+5 : 182
+6 : 219
+7 : 124
+8 : 285
+9 : 201
+10 : 144
+completed
+
+iteration : 109
+depth distribution
+0 : 0
+1 : 20
+2 : 153
+3 : 2806
+4 : 814
+5 : 220
+6 : 165
+7 : 143
+8 : 316
+9 : 201
+10 : 162
+completed
+
+iteration : 110
+depth distribution
+0 : 0
+1 : 16
+2 : 115
+3 : 2827
+4 : 855
+5 : 218
+6 : 166
+7 : 119
+8 : 345
+9 : 205
+10 : 134
+completed
+
+iteration : 111
+depth distribution
+0 : 0
+1 : 7
+2 : 143
+3 : 2864
+4 : 834
+5 : 193
+6 : 132
+7 : 145
+8 : 313
+9 : 201
+10 : 168
+completed
+
+iteration : 112
+depth distribution
+0 : 3
+1 : 8
+2 : 133
+3 : 2883
+4 : 711
+5 : 248
+6 : 160
+7 : 160
+8 : 296
+9 : 235
+10 : 163
+completed
+
+iteration : 113
+depth distribution
+0 : 2
+1 : 15
+2 : 149
+3 : 2891
+4 : 730
+5 : 259
+6 : 135
+7 : 142
+8 : 293
+9 : 194
+10 : 190
+completed
+
+iteration : 114
+depth distribution
+0 : 0
+1 : 24
+2 : 140
+3 : 2886
+4 : 774
+5 : 251
+6 : 133
+7 : 133
+8 : 290
+9 : 210
+10 : 159
+completed
+
+iteration : 115
+depth distribution
+0 : 0
+1 : 28
+2 : 145
+3 : 2898
+4 : 744
+5 : 242
+6 : 117
+7 : 120
+8 : 342
+9 : 218
+10 : 146
+completed
+
+iteration : 116
+depth distribution
+0 : 1
+1 : 20
+2 : 130
+3 : 2864
+4 : 762
+5 : 239
+6 : 129
+7 : 162
+8 : 327
+9 : 205
+10 : 161
+completed
+
+iteration : 117
+depth distribution
+0 : 1
+1 : 40
+2 : 134
+3 : 2856
+4 : 751
+5 : 212
+6 : 136
+7 : 165
+8 : 315
+9 : 217
+10 : 173
+completed
+
+iteration : 118
+depth distribution
+0 : 0
+1 : 53
+2 : 98
+3 : 2843
+4 : 739
+5 : 245
+6 : 161
+7 : 147
+8 : 347
+9 : 216
+10 : 151
+completed
+
+iteration : 119
+depth distribution
+0 : 1
+1 : 25
+2 : 91
+3 : 2824
+4 : 704
+5 : 266
+6 : 177
+7 : 152
+8 : 345
+9 : 245
+10 : 170
+completed
+
+iteration : 120
+depth distribution
+0 : 0
+1 : 25
+2 : 71
+3 : 2909
+4 : 666
+5 : 249
+6 : 173
+7 : 184
+8 : 349
+9 : 210
+10 : 164
+completed
+
+iteration : 121
+depth distribution
+0 : 0
+1 : 20
+2 : 71
+3 : 2911
+4 : 630
+5 : 289
+6 : 144
+7 : 191
+8 : 344
+9 : 212
+10 : 188
+completed
+
+iteration : 122
+depth distribution
+0 : 0
+1 : 13
+2 : 57
+3 : 2951
+4 : 617
+5 : 306
+6 : 150
+7 : 215
+8 : 331
+9 : 210
+10 : 150
+completed
+
+iteration : 123
+depth distribution
+0 : 0
+1 : 10
+2 : 102
+3 : 2957
+4 : 593
+5 : 295
+6 : 145
+7 : 194
+8 : 345
+9 : 194
+10 : 165
+completed
+
+iteration : 124
+depth distribution
+0 : 1
+1 : 3
+2 : 87
+3 : 2930
+4 : 609
+5 : 284
+6 : 159
+7 : 199
+8 : 372
+9 : 192
+10 : 164
+completed
+
+iteration : 125
+depth distribution
+0 : 0
+1 : 6
+2 : 95
+3 : 2960
+4 : 586
+5 : 294
+6 : 186
+7 : 147
+8 : 341
+9 : 205
+10 : 180
+completed
+
+iteration : 126
+depth distribution
+0 : 0
+1 : 8
+2 : 87
+3 : 2958
+4 : 573
+5 : 268
+6 : 187
+7 : 153
+8 : 372
+9 : 207
+10 : 187
+completed
+
+iteration : 127
+depth distribution
+0 : 0
+1 : 3
+2 : 96
+3 : 2963
+4 : 559
+5 : 265
+6 : 205
+7 : 162
+8 : 385
+9 : 191
+10 : 171
+completed
+
+iteration : 128
+depth distribution
+0 : 0
+1 : 12
+2 : 81
+3 : 3014
+4 : 575
+5 : 284
+6 : 175
+7 : 135
+8 : 370
+9 : 192
+10 : 162
+completed
+
+iteration : 129
+depth distribution
+0 : 0
+1 : 10
+2 : 83
+3 : 3098
+4 : 544
+5 : 253
+6 : 175
+7 : 127
+8 : 336
+9 : 219
+10 : 155
+completed
+
+iteration : 130
+depth distribution
+0 : 0
+1 : 7
+2 : 77
+3 : 3116
+4 : 535
+5 : 265
+6 : 152
+7 : 162
+8 : 341
+9 : 188
+10 : 157
+completed
+
+iteration : 131
+depth distribution
+0 : 2
+1 : 15
+2 : 100
+3 : 3138
+4 : 476
+5 : 245
+6 : 172
+7 : 137
+8 : 314
+9 : 224
+10 : 177
+completed
+
+iteration : 132
+depth distribution
+0 : 1
+1 : 28
+2 : 90
+3 : 3140
+4 : 438
+5 : 243
+6 : 158
+7 : 177
+8 : 305
+9 : 232
+10 : 188
+completed
+
+iteration : 133
+depth distribution
+0 : 1
+1 : 11
+2 : 86
+3 : 3128
+4 : 471
+5 : 261
+6 : 159
+7 : 202
+8 : 317
+9 : 208
+10 : 156
+completed
+
+iteration : 134
+depth distribution
+0 : 1
+1 : 14
+2 : 83
+3 : 3165
+4 : 450
+5 : 243
+6 : 149
+7 : 178
+8 : 318
+9 : 222
+10 : 177
+completed
+
+iteration : 135
+depth distribution
+0 : 1
+1 : 21
+2 : 96
+3 : 3234
+4 : 416
+5 : 243
+6 : 149
+7 : 158
+8 : 318
+9 : 183
+10 : 181
+completed
+
+iteration : 136
+depth distribution
+0 : 0
+1 : 17
+2 : 77
+3 : 3198
+4 : 411
+5 : 267
+6 : 161
+7 : 154
+8 : 321
+9 : 218
+10 : 176
+completed
+
+iteration : 137
+depth distribution
+0 : 0
+1 : 19
+2 : 75
+3 : 3250
+4 : 424
+5 : 234
+6 : 150
+7 : 156
+8 : 324
+9 : 200
+10 : 168
+completed
+
+iteration : 138
+depth distribution
+0 : 1
+1 : 30
+2 : 54
+3 : 3207
+4 : 384
+5 : 254
+6 : 186
+7 : 168
+8 : 325
+9 : 220
+10 : 171
+completed
+
+iteration : 139
+depth distribution
+0 : 0
+1 : 28
+2 : 60
+3 : 3122
+4 : 425
+5 : 280
+6 : 188
+7 : 165
+8 : 341
+9 : 209
+10 : 182
+completed
+
+iteration : 140
+depth distribution
+0 : 2
+1 : 31
+2 : 81
+3 : 3172
+4 : 442
+5 : 234
+6 : 198
+7 : 140
+8 : 318
+9 : 212
+10 : 170
+completed
+
+iteration : 141
+depth distribution
+0 : 1
+1 : 34
+2 : 81
+3 : 3254
+4 : 440
+5 : 233
+6 : 169
+7 : 119
+8 : 292
+9 : 193
+10 : 184
+completed
+
+iteration : 142
+depth distribution
+0 : 0
+1 : 32
+2 : 96
+3 : 3214
+4 : 492
+5 : 208
+6 : 173
+7 : 110
+8 : 320
+9 : 178
+10 : 177
+completed
+
+iteration : 143
+depth distribution
+0 : 0
+1 : 38
+2 : 140
+3 : 3195
+4 : 445
+5 : 219
+6 : 175
+7 : 155
+8 : 291
+9 : 179
+10 : 163
+completed
+
+iteration : 144
+depth distribution
+0 : 0
+1 : 26
+2 : 143
+3 : 3200
+4 : 405
+5 : 227
+6 : 182
+7 : 181
+8 : 288
+9 : 188
+10 : 160
+completed
+
+iteration : 145
+depth distribution
+0 : 1
+1 : 18
+2 : 126
+3 : 3208
+4 : 397
+5 : 278
+6 : 178
+7 : 122
+8 : 328
+9 : 181
+10 : 163
+completed
+
+iteration : 146
+depth distribution
+0 : 0
+1 : 13
+2 : 110
+3 : 3172
+4 : 415
+5 : 293
+6 : 153
+7 : 142
+8 : 316
+9 : 211
+10 : 175
+completed
+
+iteration : 147
+depth distribution
+0 : 1
+1 : 21
+2 : 135
+3 : 3172
+4 : 415
+5 : 279
+6 : 157
+7 : 127
+8 : 340
+9 : 188
+10 : 165
+completed
+
+iteration : 148
+depth distribution
+0 : 2
+1 : 6
+2 : 114
+3 : 3228
+4 : 424
+5 : 297
+6 : 160
+7 : 121
+8 : 274
+9 : 205
+10 : 169
+completed
+
+iteration : 149
+depth distribution
+0 : 2
+1 : 13
+2 : 123
+3 : 3212
+4 : 387
+5 : 285
+6 : 170
+7 : 133
+8 : 311
+9 : 206
+10 : 158
+completed
+
+iteration : 150
+depth distribution
+0 : 1
+1 : 19
+2 : 122
+3 : 3182
+4 : 364
+5 : 307
+6 : 187
+7 : 136
+8 : 311
+9 : 198
+10 : 173
+completed
+
+iteration : 151
+depth distribution
+0 : 0
+1 : 35
+2 : 106
+3 : 3147
+4 : 405
+5 : 298
+6 : 190
+7 : 124
+8 : 310
+9 : 231
+10 : 154
+completed
+
+iteration : 152
+depth distribution
+0 : 0
+1 : 38
+2 : 114
+3 : 3139
+4 : 400
+5 : 266
+6 : 205
+7 : 142
+8 : 322
+9 : 213
+10 : 161
+completed
+
+iteration : 153
+depth distribution
+0 : 0
+1 : 34
+2 : 120
+3 : 3124
+4 : 438
+5 : 244
+6 : 217
+7 : 133
+8 : 350
+9 : 171
+10 : 169
+completed
+
+iteration : 154
+depth distribution
+0 : 0
+1 : 47
+2 : 146
+3 : 3118
+4 : 413
+5 : 241
+6 : 182
+7 : 139
+8 : 358
+9 : 183
+10 : 173
+completed
+
+iteration : 155
+depth distribution
+0 : 3
+1 : 40
+2 : 156
+3 : 3141
+4 : 415
+5 : 207
+6 : 144
+7 : 173
+8 : 340
+9 : 207
+10 : 174
+completed
+
+iteration : 156
+depth distribution
+0 : 0
+1 : 21
+2 : 171
+3 : 3201
+4 : 369
+5 : 232
+6 : 115
+7 : 141
+8 : 339
+9 : 244
+10 : 167
+completed
+
+iteration : 157
+depth distribution
+0 : 0
+1 : 19
+2 : 139
+3 : 3155
+4 : 418
+5 : 247
+6 : 161
+7 : 146
+8 : 342
+9 : 224
+10 : 149
+completed
+
+iteration : 158
+depth distribution
+0 : 0
+1 : 22
+2 : 110
+3 : 3204
+4 : 407
+5 : 273
+6 : 160
+7 : 144
+8 : 307
+9 : 215
+10 : 158
+completed
+
+iteration : 159
+depth distribution
+0 : 2
+1 : 38
+2 : 99
+3 : 3222
+4 : 425
+5 : 225
+6 : 175
+7 : 125
+8 : 311
+9 : 198
+10 : 180
+completed
+
+iteration : 160
+depth distribution
+0 : 0
+1 : 53
+2 : 93
+3 : 3185
+4 : 443
+5 : 233
+6 : 165
+7 : 131
+8 : 337
+9 : 207
+10 : 153
+completed
+
+iteration : 161
+depth distribution
+0 : 1
+1 : 55
+2 : 96
+3 : 3154
+4 : 412
+5 : 237
+6 : 196
+7 : 144
+8 : 331
+9 : 204
+10 : 170
+completed
+
+iteration : 162
+depth distribution
+0 : 0
+1 : 37
+2 : 76
+3 : 3143
+4 : 435
+5 : 241
+6 : 199
+7 : 136
+8 : 339
+9 : 228
+10 : 166
+completed
+
+iteration : 163
+depth distribution
+0 : 0
+1 : 40
+2 : 84
+3 : 3121
+4 : 483
+5 : 253
+6 : 186
+7 : 127
+8 : 310
+9 : 221
+10 : 175
+completed
+
+iteration : 164
+depth distribution
+0 : 1
+1 : 56
+2 : 68
+3 : 3103
+4 : 470
+5 : 243
+6 : 199
+7 : 147
+8 : 333
+9 : 199
+10 : 181
+completed
+
+iteration : 165
+depth distribution
+0 : 0
+1 : 62
+2 : 67
+3 : 3123
+4 : 435
+5 : 237
+6 : 225
+7 : 130
+8 : 312
+9 : 209
+10 : 200
+completed
+
+iteration : 166
+depth distribution
+0 : 0
+1 : 53
+2 : 84
+3 : 3095
+4 : 469
+5 : 258
+6 : 216
+7 : 129
+8 : 294
+9 : 231
+10 : 171
+completed
+
+iteration : 167
+depth distribution
+0 : 0
+1 : 69
+2 : 70
+3 : 3028
+4 : 557
+5 : 249
+6 : 193
+7 : 123
+8 : 337
+9 : 219
+10 : 155
+completed
+
+iteration : 168
+depth distribution
+0 : 0
+1 : 47
+2 : 87
+3 : 3105
+4 : 553
+5 : 228
+6 : 177
+7 : 126
+8 : 326
+9 : 194
+10 : 157
+completed
+
+iteration : 169
+depth distribution
+0 : 0
+1 : 27
+2 : 127
+3 : 3136
+4 : 559
+5 : 229
+6 : 148
+7 : 121
+8 : 334
+9 : 168
+10 : 151
+completed
+
+iteration : 170
+depth distribution
+0 : 0
+1 : 27
+2 : 104
+3 : 3125
+4 : 526
+5 : 233
+6 : 157
+7 : 143
+8 : 317
+9 : 209
+10 : 159
+completed
+
+iteration : 171
+depth distribution
+0 : 0
+1 : 28
+2 : 153
+3 : 3071
+4 : 476
+5 : 248
+6 : 209
+7 : 138
+8 : 300
+9 : 193
+10 : 184
+completed
+
+iteration : 172
+depth distribution
+0 : 1
+1 : 29
+2 : 137
+3 : 3124
+4 : 422
+5 : 271
+6 : 198
+7 : 140
+8 : 312
+9 : 184
+10 : 182
+completed
+
+iteration : 173
+depth distribution
+0 : 2
+1 : 18
+2 : 132
+3 : 3099
+4 : 408
+5 : 291
+6 : 211
+7 : 126
+8 : 328
+9 : 227
+10 : 158
+completed
+
+iteration : 174
+depth distribution
+0 : 2
+1 : 17
+2 : 105
+3 : 3158
+4 : 378
+5 : 277
+6 : 193
+7 : 114
+8 : 339
+9 : 237
+10 : 180
+completed
+
+iteration : 175
+depth distribution
+0 : 1
+1 : 16
+2 : 98
+3 : 3270
+4 : 381
+5 : 243
+6 : 172
+7 : 133
+8 : 326
+9 : 208
+10 : 152
+completed
+
+iteration : 176
+depth distribution
+0 : 0
+1 : 9
+2 : 115
+3 : 3318
+4 : 389
+5 : 189
+6 : 188
+7 : 116
+8 : 316
+9 : 216
+10 : 144
+completed
+
+iteration : 177
+depth distribution
+0 : 0
+1 : 9
+2 : 135
+3 : 3151
+4 : 477
+5 : 231
+6 : 184
+7 : 132
+8 : 331
+9 : 197
+10 : 153
+completed
+
+iteration : 178
+depth distribution
+0 : 1
+1 : 20
+2 : 124
+3 : 3081
+4 : 498
+5 : 209
+6 : 189
+7 : 128
+8 : 389
+9 : 204
+10 : 157
+completed
+
+iteration : 179
+depth distribution
+0 : 0
+1 : 33
+2 : 111
+3 : 3110
+4 : 476
+5 : 219
+6 : 185
+7 : 164
+8 : 364
+9 : 198
+10 : 140
+completed
+
+iteration : 180
+depth distribution
+0 : 0
+1 : 38
+2 : 120
+3 : 3069
+4 : 478
+5 : 204
+6 : 182
+7 : 163
+8 : 370
+9 : 193
+10 : 183
+completed
+
+iteration : 181
+depth distribution
+0 : 0
+1 : 33
+2 : 106
+3 : 3140
+4 : 459
+5 : 208
+6 : 174
+7 : 136
+8 : 335
+9 : 227
+10 : 182
+completed
+
+iteration : 182
+depth distribution
+0 : 2
+1 : 22
+2 : 120
+3 : 3091
+4 : 478
+5 : 233
+6 : 143
+7 : 171
+8 : 367
+9 : 203
+10 : 170
+completed
+
+iteration : 183
+depth distribution
+0 : 0
+1 : 19
+2 : 125
+3 : 3175
+4 : 506
+5 : 193
+6 : 139
+7 : 129
+8 : 319
+9 : 220
+10 : 175
+completed
+
+iteration : 184
+depth distribution
+0 : 0
+1 : 19
+2 : 122
+3 : 3159
+4 : 461
+5 : 213
+6 : 181
+7 : 145
+8 : 347
+9 : 197
+10 : 156
+completed
+
+iteration : 185
+depth distribution
+0 : 0
+1 : 16
+2 : 110
+3 : 3192
+4 : 447
+5 : 219
+6 : 152
+7 : 146
+8 : 354
+9 : 201
+10 : 163
+completed
+
+iteration : 186
+depth distribution
+0 : 0
+1 : 9
+2 : 106
+3 : 3179
+4 : 435
+5 : 216
+6 : 163
+7 : 152
+8 : 332
+9 : 220
+10 : 188
+completed
+
+iteration : 187
+depth distribution
+0 : 0
+1 : 18
+2 : 109
+3 : 3190
+4 : 434
+5 : 197
+6 : 166
+7 : 158
+8 : 358
+9 : 212
+10 : 158
+completed
+
+iteration : 188
+depth distribution
+0 : 0
+1 : 26
+2 : 98
+3 : 3258
+4 : 407
+5 : 203
+6 : 168
+7 : 141
+8 : 336
+9 : 173
+10 : 190
+completed
+
+iteration : 189
+depth distribution
+0 : 0
+1 : 33
+2 : 112
+3 : 3192
+4 : 421
+5 : 214
+6 : 200
+7 : 143
+8 : 319
+9 : 189
+10 : 177
+completed
+
+iteration : 190
+depth distribution
+0 : 2
+1 : 25
+2 : 142
+3 : 3212
+4 : 403
+5 : 214
+6 : 193
+7 : 130
+8 : 296
+9 : 209
+10 : 174
+completed
+
+iteration : 191
+depth distribution
+0 : 0
+1 : 21
+2 : 162
+3 : 3244
+4 : 401
+5 : 207
+6 : 166
+7 : 134
+8 : 317
+9 : 193
+10 : 155
+completed
+
+iteration : 192
+depth distribution
+0 : 0
+1 : 28
+2 : 149
+3 : 3296
+4 : 390
+5 : 177
+6 : 138
+7 : 137
+8 : 318
+9 : 200
+10 : 167
+completed
+
+iteration : 193
+depth distribution
+0 : 2
+1 : 24
+2 : 158
+3 : 3346
+4 : 363
+5 : 202
+6 : 152
+7 : 128
+8 : 308
+9 : 177
+10 : 140
+completed
+
+iteration : 194
+depth distribution
+0 : 0
+1 : 19
+2 : 168
+3 : 3315
+4 : 324
+5 : 210
+6 : 183
+7 : 141
+8 : 300
+9 : 176
+10 : 164
+completed
+
+iteration : 195
+depth distribution
+0 : 1
+1 : 14
+2 : 165
+3 : 3334
+4 : 319
+5 : 197
+6 : 183
+7 : 130
+8 : 284
+9 : 206
+10 : 167
+completed
+
+iteration : 196
+depth distribution
+0 : 0
+1 : 13
+2 : 172
+3 : 3289
+4 : 310
+5 : 203
+6 : 185
+7 : 137
+8 : 289
+9 : 222
+10 : 180
+completed
+
+iteration : 197
+depth distribution
+0 : 1
+1 : 29
+2 : 175
+3 : 3287
+4 : 301
+5 : 202
+6 : 170
+7 : 134
+8 : 319
+9 : 201
+10 : 181
+completed
+
+iteration : 198
+depth distribution
+0 : 1
+1 : 46
+2 : 156
+3 : 3320
+4 : 332
+5 : 231
+6 : 159
+7 : 117
+8 : 276
+9 : 182
+10 : 180
+completed
+
+iteration : 199
+depth distribution
+0 : 5
+1 : 47
+2 : 201
+3 : 3261
+4 : 350
+5 : 222
+6 : 151
+7 : 107
+8 : 267
+9 : 205
+10 : 184
+completed
+
+iteration : 200
+depth distribution
+0 : 3
+1 : 44
+2 : 180
+3 : 3248
+4 : 388
+5 : 229
+6 : 141
+7 : 129
+8 : 287
+9 : 198
+10 : 153
+completed
+
+iteration : 201
+depth distribution
+0 : 3
+1 : 32
+2 : 207
+3 : 3256
+4 : 432
+5 : 174
+6 : 152
+7 : 115
+8 : 295
+9 : 173
+10 : 161
+completed
+
+iteration : 202
+depth distribution
+0 : 5
+1 : 38
+2 : 142
+3 : 3273
+4 : 414
+5 : 199
+6 : 148
+7 : 145
+8 : 297
+9 : 180
+10 : 159
+completed
+
+iteration : 203
+depth distribution
+0 : 2
+1 : 38
+2 : 127
+3 : 3261
+4 : 408
+5 : 214
+6 : 153
+7 : 120
+8 : 291
+9 : 201
+10 : 185
+completed
+
+iteration : 204
+depth distribution
+0 : 3
+1 : 19
+2 : 151
+3 : 3213
+4 : 444
+5 : 222
+6 : 164
+7 : 127
+8 : 285
+9 : 205
+10 : 167
+completed
+
+iteration : 205
+depth distribution
+0 : 2
+1 : 21
+2 : 143
+3 : 3280
+4 : 445
+5 : 180
+6 : 148
+7 : 127
+8 : 287
+9 : 206
+10 : 161
+completed
+
+iteration : 206
+depth distribution
+0 : 1
+1 : 43
+2 : 143
+3 : 3194
+4 : 475
+5 : 187
+6 : 156
+7 : 126
+8 : 314
+9 : 191
+10 : 170
+completed
+
+iteration : 207
+depth distribution
+0 : 0
+1 : 63
+2 : 140
+3 : 3211
+4 : 452
+5 : 186
+6 : 160
+7 : 131
+8 : 308
+9 : 189
+10 : 160
+completed
+
+iteration : 208
+depth distribution
+0 : 1
+1 : 73
+2 : 125
+3 : 3214
+4 : 451
+5 : 174
+6 : 133
+7 : 120
+8 : 313
+9 : 230
+10 : 166
+completed
+
+iteration : 209
+depth distribution
+0 : 2
+1 : 85
+2 : 135
+3 : 3151
+4 : 462
+5 : 176
+6 : 164
+7 : 143
+8 : 303
+9 : 215
+10 : 164
+completed
+
+iteration : 210
+depth distribution
+0 : 0
+1 : 93
+2 : 150
+3 : 3176
+4 : 399
+5 : 203
+6 : 124
+7 : 149
+8 : 308
+9 : 233
+10 : 165
+completed
+
+iteration : 211
+depth distribution
+0 : 2
+1 : 80
+2 : 147
+3 : 3121
+4 : 425
+5 : 224
+6 : 135
+7 : 135
+8 : 329
+9 : 195
+10 : 207
+completed
+
+iteration : 212
+depth distribution
+0 : 4
+1 : 80
+2 : 117
+3 : 3207
+4 : 417
+5 : 199
+6 : 142
+7 : 119
+8 : 369
+9 : 195
+10 : 151
+completed
+
+iteration : 213
+depth distribution
+0 : 1
+1 : 84
+2 : 118
+3 : 3251
+4 : 378
+5 : 190
+6 : 172
+7 : 114
+8 : 314
+9 : 203
+10 : 175
+completed
+
+iteration : 214
+depth distribution
+0 : 0
+1 : 93
+2 : 93
+3 : 3233
+4 : 389
+5 : 185
+6 : 189
+7 : 140
+8 : 327
+9 : 202
+10 : 149
+completed
+
+iteration : 215
+depth distribution
+0 : 0
+1 : 56
+2 : 100
+3 : 3209
+4 : 446
+5 : 195
+6 : 184
+7 : 138
+8 : 301
+9 : 199
+10 : 172
+completed
+
+iteration : 216
+depth distribution
+0 : 0
+1 : 41
+2 : 79
+3 : 3229
+4 : 448
+5 : 184
+6 : 163
+7 : 138
+8 : 355
+9 : 172
+10 : 191
+completed
+
+iteration : 217
+depth distribution
+0 : 0
+1 : 28
+2 : 103
+3 : 3178
+4 : 442
+5 : 208
+6 : 192
+7 : 156
+8 : 318
+9 : 212
+10 : 163
+completed
+
+iteration : 218
+depth distribution
+0 : 0
+1 : 29
+2 : 96
+3 : 3157
+4 : 442
+5 : 218
+6 : 212
+7 : 149
+8 : 341
+9 : 197
+10 : 159
+completed
+
+iteration : 219
+depth distribution
+0 : 0
+1 : 51
+2 : 91
+3 : 3155
+4 : 493
+5 : 218
+6 : 155
+7 : 155
+8 : 313
+9 : 206
+10 : 163
+completed
+
+iteration : 220
+depth distribution
+0 : 0
+1 : 50
+2 : 82
+3 : 3209
+4 : 467
+5 : 233
+6 : 159
+7 : 113
+8 : 305
+9 : 225
+10 : 157
+completed
+
+iteration : 221
+depth distribution
+0 : 3
+1 : 43
+2 : 105
+3 : 3188
+4 : 442
+5 : 224
+6 : 156
+7 : 140
+8 : 307
+9 : 243
+10 : 149
+completed
+
+iteration : 222
+depth distribution
+0 : 1
+1 : 44
+2 : 122
+3 : 3212
+4 : 397
+5 : 180
+6 : 166
+7 : 147
+8 : 338
+9 : 222
+10 : 171
+completed
+
+iteration : 223
+depth distribution
+0 : 0
+1 : 41
+2 : 129
+3 : 3174
+4 : 367
+5 : 238
+6 : 177
+7 : 135
+8 : 357
+9 : 202
+10 : 180
+completed
+
+iteration : 224
+depth distribution
+0 : 1
+1 : 48
+2 : 110
+3 : 3197
+4 : 355
+5 : 231
+6 : 175
+7 : 143
+8 : 324
+9 : 221
+10 : 195
+completed
+
+iteration : 225
+depth distribution
+0 : 0
+1 : 50
+2 : 149
+3 : 3135
+4 : 387
+5 : 219
+6 : 166
+7 : 120
+8 : 336
+9 : 247
+10 : 191
+completed
+
+iteration : 226
+depth distribution
+0 : 0
+1 : 32
+2 : 155
+3 : 3140
+4 : 394
+5 : 245
+6 : 182
+7 : 135
+8 : 304
+9 : 207
+10 : 206
+completed
+
+iteration : 227
+depth distribution
+0 : 0
+1 : 49
+2 : 150
+3 : 3153
+4 : 354
+5 : 255
+6 : 177
+7 : 112
+8 : 347
+9 : 215
+10 : 188
+completed
+
+iteration : 228
+depth distribution
+0 : 1
+1 : 65
+2 : 173
+3 : 3126
+4 : 347
+5 : 256
+6 : 156
+7 : 139
+8 : 325
+9 : 212
+10 : 200
+completed
+
+iteration : 229
+depth distribution
+0 : 1
+1 : 54
+2 : 197
+3 : 3124
+4 : 360
+5 : 222
+6 : 162
+7 : 146
+8 : 337
+9 : 228
+10 : 169
+completed
+
+iteration : 230
+depth distribution
+0 : 1
+1 : 40
+2 : 198
+3 : 3120
+4 : 393
+5 : 249
+6 : 159
+7 : 126
+8 : 312
+9 : 228
+10 : 174
+completed
+
+iteration : 231
+depth distribution
+0 : 0
+1 : 50
+2 : 187
+3 : 3140
+4 : 373
+5 : 256
+6 : 146
+7 : 147
+8 : 300
+9 : 218
+10 : 183
+completed
+
+iteration : 232
+depth distribution
+0 : 0
+1 : 80
+2 : 199
+3 : 3072
+4 : 414
+5 : 235
+6 : 152
+7 : 157
+8 : 290
+9 : 209
+10 : 192
+completed
+
+iteration : 233
+depth distribution
+0 : 2
+1 : 103
+2 : 211
+3 : 3028
+4 : 377
+5 : 261
+6 : 153
+7 : 151
+8 : 312
+9 : 222
+10 : 180
+completed
+
+iteration : 234
+depth distribution
+0 : 3
+1 : 149
+2 : 219
+3 : 2971
+4 : 369
+5 : 271
+6 : 158
+7 : 147
+8 : 343
+9 : 199
+10 : 171
+completed
+
+iteration : 235
+depth distribution
+0 : 0
+1 : 124
+2 : 254
+3 : 2927
+4 : 380
+5 : 311
+6 : 166
+7 : 150
+8 : 307
+9 : 205
+10 : 176
+completed
+
+iteration : 236
+depth distribution
+0 : 0
+1 : 126
+2 : 261
+3 : 2977
+4 : 349
+5 : 262
+6 : 150
+7 : 155
+8 : 314
+9 : 233
+10 : 173
+completed
+
+iteration : 237
+depth distribution
+0 : 0
+1 : 124
+2 : 320
+3 : 2886
+4 : 349
+5 : 253
+6 : 165
+7 : 163
+8 : 306
+9 : 237
+10 : 197
+completed
+
+iteration : 238
+depth distribution
+0 : 0
+1 : 132
+2 : 290
+3 : 2946
+4 : 382
+5 : 245
+6 : 146
+7 : 159
+8 : 306
+9 : 209
+10 : 185
+completed
+
+iteration : 239
+depth distribution
+0 : 0
+1 : 96
+2 : 262
+3 : 3068
+4 : 355
+5 : 238
+6 : 151
+7 : 125
+8 : 293
+9 : 222
+10 : 190
+completed
+
+iteration : 240
+depth distribution
+0 : 0
+1 : 66
+2 : 255
+3 : 3057
+4 : 329
+5 : 233
+6 : 191
+7 : 156
+8 : 296
+9 : 239
+10 : 178
+completed
+
+iteration : 241
+depth distribution
+0 : 2
+1 : 45
+2 : 269
+3 : 3077
+4 : 331
+5 : 221
+6 : 173
+7 : 144
+8 : 320
+9 : 241
+10 : 177
+completed
+
+iteration : 242
+depth distribution
+0 : 1
+1 : 47
+2 : 271
+3 : 3062
+4 : 367
+5 : 204
+6 : 158
+7 : 153
+8 : 335
+9 : 226
+10 : 176
+completed
+
+iteration : 243
+depth distribution
+0 : 0
+1 : 62
+2 : 312
+3 : 3014
+4 : 380
+5 : 211
+6 : 148
+7 : 130
+8 : 324
+9 : 243
+10 : 176
+completed
+
+iteration : 244
+depth distribution
+0 : 0
+1 : 62
+2 : 356
+3 : 2991
+4 : 341
+5 : 212
+6 : 175
+7 : 138
+8 : 355
+9 : 196
+10 : 174
+completed
+
+iteration : 245
+depth distribution
+0 : 0
+1 : 55
+2 : 324
+3 : 2973
+4 : 330
+5 : 226
+6 : 191
+7 : 161
+8 : 338
+9 : 211
+10 : 191
+completed
+
+iteration : 246
+depth distribution
+0 : 1
+1 : 64
+2 : 294
+3 : 2911
+4 : 332
+5 : 307
+6 : 194
+7 : 143
+8 : 360
+9 : 210
+10 : 184
+completed
+
+iteration : 247
+depth distribution
+0 : 0
+1 : 68
+2 : 241
+3 : 2951
+4 : 340
+5 : 308
+6 : 165
+7 : 158
+8 : 367
+9 : 222
+10 : 180
+completed
+
+iteration : 248
+depth distribution
+0 : 0
+1 : 61
+2 : 235
+3 : 3016
+4 : 359
+5 : 283
+6 : 166
+7 : 163
+8 : 350
+9 : 188
+10 : 179
+completed
+
+iteration : 249
+depth distribution
+0 : 0
+1 : 68
+2 : 216
+3 : 3061
+4 : 369
+5 : 257
+6 : 168
+7 : 115
+8 : 328
+9 : 233
+10 : 185
+completed
+
+iteration : 250
+depth distribution
+0 : 0
+1 : 51
+2 : 208
+3 : 3092
+4 : 399
+5 : 238
+6 : 149
+7 : 127
+8 : 347
+9 : 206
+10 : 183
+completed
+
+iteration : 251
+depth distribution
+0 : 6
+1 : 61
+2 : 171
+3 : 3131
+4 : 371
+5 : 229
+6 : 141
+7 : 125
+8 : 361
+9 : 219
+10 : 185
+completed
+
+iteration : 252
+depth distribution
+0 : 4
+1 : 61
+2 : 136
+3 : 3175
+4 : 366
+5 : 236
+6 : 134
+7 : 123
+8 : 368
+9 : 221
+10 : 176
+completed
+
+iteration : 253
+depth distribution
+0 : 0
+1 : 59
+2 : 170
+3 : 3164
+4 : 325
+5 : 245
+6 : 179
+7 : 110
+8 : 341
+9 : 221
+10 : 186
+completed
+
+iteration : 254
+depth distribution
+0 : 0
+1 : 82
+2 : 190
+3 : 3127
+4 : 329
+5 : 248
+6 : 150
+7 : 133
+8 : 344
+9 : 218
+10 : 179
+completed
+
+iteration : 255
+depth distribution
+0 : 0
+1 : 58
+2 : 216
+3 : 3100
+4 : 346
+5 : 248
+6 : 159
+7 : 123
+8 : 357
+9 : 202
+10 : 191
+completed
+
+iteration : 256
+depth distribution
+0 : 2
+1 : 63
+2 : 207
+3 : 3147
+4 : 344
+5 : 231
+6 : 143
+7 : 124
+8 : 341
+9 : 230
+10 : 168
+completed
+
+iteration : 257
+depth distribution
+0 : 0
+1 : 65
+2 : 190
+3 : 3142
+4 : 377
+5 : 184
+6 : 155
+7 : 133
+8 : 339
+9 : 242
+10 : 173
+completed
+
+iteration : 258
+depth distribution
+0 : 0
+1 : 70
+2 : 182
+3 : 3094
+4 : 411
+5 : 220
+6 : 175
+7 : 129
+8 : 367
+9 : 189
+10 : 163
+completed
+
+iteration : 259
+depth distribution
+0 : 0
+1 : 94
+2 : 195
+3 : 3083
+4 : 401
+5 : 229
+6 : 154
+7 : 143
+8 : 324
+9 : 194
+10 : 183
+completed
+
+iteration : 260
+depth distribution
+0 : 3
+1 : 96
+2 : 201
+3 : 3141
+4 : 352
+5 : 198
+6 : 164
+7 : 132
+8 : 317
+9 : 234
+10 : 162
+completed
+
+iteration : 261
+depth distribution
+0 : 1
+1 : 89
+2 : 182
+3 : 3133
+4 : 376
+5 : 203
+6 : 146
+7 : 109
+8 : 346
+9 : 211
+10 : 204
+completed
+
+iteration : 262
+depth distribution
+0 : 1
+1 : 65
+2 : 188
+3 : 3143
+4 : 386
+5 : 233
+6 : 131
+7 : 112
+8 : 356
+9 : 189
+10 : 196
+completed
+
+iteration : 263
+depth distribution
+0 : 0
+1 : 54
+2 : 210
+3 : 3128
+4 : 407
+5 : 194
+6 : 153
+7 : 143
+8 : 368
+9 : 194
+10 : 149
+completed
+
+iteration : 264
+depth distribution
+0 : 0
+1 : 66
+2 : 197
+3 : 3157
+4 : 357
+5 : 227
+6 : 154
+7 : 104
+8 : 340
+9 : 224
+10 : 174
+completed
+
+iteration : 265
+depth distribution
+0 : 0
+1 : 61
+2 : 195
+3 : 3222
+4 : 349
+5 : 221
+6 : 148
+7 : 100
+8 : 360
+9 : 182
+10 : 162
+completed
+
+iteration : 266
+depth distribution
+0 : 1
+1 : 43
+2 : 184
+3 : 3233
+4 : 343
+5 : 199
+6 : 158
+7 : 124
+8 : 330
+9 : 215
+10 : 170
+completed
+
+iteration : 267
+depth distribution
+0 : 0
+1 : 45
+2 : 188
+3 : 3148
+4 : 387
+5 : 244
+6 : 135
+7 : 140
+8 : 324
+9 : 215
+10 : 174
+completed
+
+iteration : 268
+depth distribution
+0 : 0
+1 : 33
+2 : 217
+3 : 3186
+4 : 350
+5 : 230
+6 : 127
+7 : 129
+8 : 343
+9 : 202
+10 : 183
+completed
+
+iteration : 269
+depth distribution
+0 : 0
+1 : 41
+2 : 246
+3 : 3165
+4 : 349
+5 : 190
+6 : 166
+7 : 113
+8 : 369
+9 : 186
+10 : 175
+completed
+
+iteration : 270
+depth distribution
+0 : 0
+1 : 36
+2 : 227
+3 : 3179
+4 : 352
+5 : 185
+6 : 163
+7 : 112
+8 : 372
+9 : 212
+10 : 162
+completed
+
+iteration : 271
+depth distribution
+0 : 0
+1 : 41
+2 : 208
+3 : 3166
+4 : 389
+5 : 223
+6 : 143
+7 : 107
+8 : 336
+9 : 214
+10 : 173
+completed
+
+iteration : 272
+depth distribution
+0 : 0
+1 : 39
+2 : 200
+3 : 3177
+4 : 442
+5 : 188
+6 : 151
+7 : 110
+8 : 326
+9 : 202
+10 : 165
+completed
+
+iteration : 273
+depth distribution
+0 : 1
+1 : 35
+2 : 238
+3 : 3153
+4 : 436
+5 : 177
+6 : 144
+7 : 148
+8 : 308
+9 : 186
+10 : 174
+completed
+
+iteration : 274
+depth distribution
+0 : 0
+1 : 28
+2 : 228
+3 : 3194
+4 : 404
+5 : 188
+6 : 141
+7 : 118
+8 : 318
+9 : 207
+10 : 174
+completed
+
+iteration : 275
+depth distribution
+0 : 0
+1 : 36
+2 : 200
+3 : 3204
+4 : 438
+5 : 148
+6 : 156
+7 : 95
+8 : 347
+9 : 181
+10 : 195
+completed
+
+iteration : 276
+depth distribution
+0 : 0
+1 : 35
+2 : 224
+3 : 3280
+4 : 366
+5 : 167
+6 : 135
+7 : 125
+8 : 294
+9 : 208
+10 : 166
+completed
+
+iteration : 277
+depth distribution
+0 : 1
+1 : 27
+2 : 224
+3 : 3254
+4 : 359
+5 : 145
+6 : 142
+7 : 147
+8 : 336
+9 : 201
+10 : 164
+completed
+
+iteration : 278
+depth distribution
+0 : 2
+1 : 23
+2 : 227
+3 : 3298
+4 : 316
+5 : 153
+6 : 159
+7 : 128
+8 : 305
+9 : 226
+10 : 163
+completed
+
+iteration : 279
+depth distribution
+0 : 2
+1 : 36
+2 : 262
+3 : 3257
+4 : 284
+5 : 139
+6 : 146
+7 : 153
+8 : 338
+9 : 218
+10 : 165
+completed
+
+iteration : 280
+depth distribution
+0 : 6
+1 : 29
+2 : 265
+3 : 3258
+4 : 318
+5 : 163
+6 : 149
+7 : 118
+8 : 303
+9 : 212
+10 : 179
+completed
+
+iteration : 281
+depth distribution
+0 : 6
+1 : 25
+2 : 237
+3 : 3248
+4 : 312
+5 : 163
+6 : 146
+7 : 131
+8 : 349
+9 : 225
+10 : 158
+completed
+
+iteration : 282
+depth distribution
+0 : 4
+1 : 27
+2 : 234
+3 : 3182
+4 : 362
+5 : 151
+6 : 148
+7 : 157
+8 : 331
+9 : 235
+10 : 169
+completed
+
+iteration : 283
+depth distribution
+0 : 0
+1 : 27
+2 : 231
+3 : 3186
+4 : 362
+5 : 171
+6 : 175
+7 : 161
+8 : 322
+9 : 187
+10 : 178
+completed
+
+iteration : 284
+depth distribution
+0 : 0
+1 : 49
+2 : 244
+3 : 3124
+4 : 368
+5 : 201
+6 : 216
+7 : 131
+8 : 301
+9 : 193
+10 : 173
+completed
+
+iteration : 285
+depth distribution
+0 : 0
+1 : 71
+2 : 256
+3 : 3136
+4 : 335
+5 : 218
+6 : 171
+7 : 137
+8 : 315
+9 : 211
+10 : 150
+completed
+
+iteration : 286
+depth distribution
+0 : 0
+1 : 91
+2 : 260
+3 : 3114
+4 : 324
+5 : 223
+6 : 159
+7 : 126
+8 : 300
+9 : 209
+10 : 194
+completed
+
+iteration : 287
+depth distribution
+0 : 0
+1 : 110
+2 : 265
+3 : 3073
+4 : 319
+5 : 224
+6 : 181
+7 : 121
+8 : 304
+9 : 222
+10 : 181
+completed
+
+iteration : 288
+depth distribution
+0 : 0
+1 : 108
+2 : 299
+3 : 3060
+4 : 326
+5 : 210
+6 : 180
+7 : 114
+8 : 311
+9 : 203
+10 : 189
+completed
+
+iteration : 289
+depth distribution
+0 : 2
+1 : 112
+2 : 283
+3 : 3141
+4 : 324
+5 : 207
+6 : 153
+7 : 123
+8 : 295
+9 : 215
+10 : 145
+completed
+
+iteration : 290
+depth distribution
+0 : 2
+1 : 117
+2 : 273
+3 : 3084
+4 : 344
+5 : 217
+6 : 163
+7 : 123
+8 : 299
+9 : 204
+10 : 174
+completed
+
+iteration : 291
+depth distribution
+0 : 0
+1 : 133
+2 : 330
+3 : 3035
+4 : 344
+5 : 219
+6 : 144
+7 : 113
+8 : 307
+9 : 206
+10 : 169
+completed
+
+iteration : 292
+depth distribution
+0 : 0
+1 : 140
+2 : 361
+3 : 3050
+4 : 356
+5 : 201
+6 : 139
+7 : 106
+8 : 288
+9 : 203
+10 : 156
+completed
+
+iteration : 293
+depth distribution
+0 : 0
+1 : 125
+2 : 354
+3 : 3115
+4 : 321
+5 : 197
+6 : 144
+7 : 105
+8 : 297
+9 : 178
+10 : 164
+completed
+
+iteration : 294
+depth distribution
+0 : 0
+1 : 134
+2 : 373
+3 : 3025
+4 : 337
+5 : 235
+6 : 136
+7 : 103
+8 : 308
+9 : 185
+10 : 164
+completed
+
+iteration : 295
+depth distribution
+0 : 1
+1 : 140
+2 : 412
+3 : 2883
+4 : 365
+5 : 244
+6 : 140
+7 : 120
+8 : 322
+9 : 195
+10 : 178
+completed
+
+iteration : 296
+depth distribution
+0 : 0
+1 : 147
+2 : 404
+3 : 2912
+4 : 333
+5 : 240
+6 : 140
+7 : 117
+8 : 361
+9 : 193
+10 : 153
+completed
+
+iteration : 297
+depth distribution
+0 : 1
+1 : 124
+2 : 418
+3 : 2955
+4 : 330
+5 : 173
+6 : 135
+7 : 119
+8 : 377
+9 : 209
+10 : 159
+completed
+
+iteration : 298
+depth distribution
+0 : 0
+1 : 127
+2 : 498
+3 : 2831
+4 : 329
+5 : 217
+6 : 161
+7 : 110
+8 : 339
+9 : 252
+10 : 136
+completed
+
+iteration : 299
+depth distribution
+0 : 0
+1 : 122
+2 : 522
+3 : 2818
+4 : 321
+5 : 215
+6 : 144
+7 : 138
+8 : 323
+9 : 212
+10 : 185
+completed
+
+iteration : 300
+depth distribution
+0 : 0
+1 : 104
+2 : 510
+3 : 2853
+4 : 272
+5 : 244
+6 : 137
+7 : 139
+8 : 327
+9 : 230
+10 : 184
+completed
+
+iteration : 301
+depth distribution
+0 : 0
+1 : 94
+2 : 506
+3 : 2830
+4 : 266
+5 : 278
+6 : 149
+7 : 147
+8 : 321
+9 : 233
+10 : 176
+completed
+
+iteration : 302
+depth distribution
+0 : 0
+1 : 94
+2 : 497
+3 : 2812
+4 : 285
+5 : 298
+6 : 143
+7 : 147
+8 : 330
+9 : 221
+10 : 173
+completed
+
+iteration : 303
+depth distribution
+0 : 3
+1 : 83
+2 : 546
+3 : 2726
+4 : 294
+5 : 294
+6 : 178
+7 : 151
+8 : 326
+9 : 208
+10 : 191
+completed
+
+iteration : 304
+depth distribution
+0 : 2
+1 : 96
+2 : 551
+3 : 2741
+4 : 323
+5 : 264
+6 : 158
+7 : 133
+8 : 346
+9 : 193
+10 : 193
+completed
+
+iteration : 305
+depth distribution
+0 : 1
+1 : 83
+2 : 535
+3 : 2777
+4 : 336
+5 : 225
+6 : 159
+7 : 131
+8 : 362
+9 : 219
+10 : 172
+completed
+
+iteration : 306
+depth distribution
+0 : 0
+1 : 90
+2 : 537
+3 : 2776
+4 : 347
+5 : 224
+6 : 147
+7 : 149
+8 : 366
+9 : 199
+10 : 165
+completed
+
+iteration : 307
+depth distribution
+0 : 0
+1 : 112
+2 : 532
+3 : 2733
+4 : 348
+5 : 242
+6 : 138
+7 : 128
+8 : 353
+9 : 241
+10 : 173
+completed
+
+iteration : 308
+depth distribution
+0 : 1
+1 : 100
+2 : 525
+3 : 2808
+4 : 332
+5 : 238
+6 : 145
+7 : 113
+8 : 354
+9 : 221
+10 : 163
+completed
+
+iteration : 309
+depth distribution
+0 : 2
+1 : 126
+2 : 559
+3 : 2798
+4 : 351
+5 : 210
+6 : 150
+7 : 114
+8 : 303
+9 : 187
+10 : 200
+completed
+
+iteration : 310
+depth distribution
+0 : 0
+1 : 125
+2 : 608
+3 : 2714
+4 : 347
+5 : 230
+6 : 153
+7 : 110
+8 : 306
+9 : 216
+10 : 191
+completed
+
+iteration : 311
+depth distribution
+0 : 3
+1 : 101
+2 : 618
+3 : 2703
+4 : 349
+5 : 223
+6 : 161
+7 : 117
+8 : 349
+9 : 202
+10 : 174
+completed
+
+iteration : 312
+depth distribution
+0 : 0
+1 : 89
+2 : 659
+3 : 2740
+4 : 335
+5 : 190
+6 : 144
+7 : 140
+8 : 337
+9 : 202
+10 : 164
+completed
+
+iteration : 313
+depth distribution
+0 : 0
+1 : 86
+2 : 719
+3 : 2610
+4 : 376
+5 : 241
+6 : 138
+7 : 141
+8 : 329
+9 : 185
+10 : 175
+completed
+
+iteration : 314
+depth distribution
+0 : 2
+1 : 101
+2 : 719
+3 : 2582
+4 : 349
+5 : 272
+6 : 147
+7 : 124
+8 : 317
+9 : 199
+10 : 188
+completed
+
+iteration : 315
+depth distribution
+0 : 0
+1 : 85
+2 : 780
+3 : 2469
+4 : 384
+5 : 255
+6 : 174
+7 : 146
+8 : 348
+9 : 191
+10 : 168
+completed
+
+iteration : 316
+depth distribution
+0 : 0
+1 : 67
+2 : 815
+3 : 2419
+4 : 410
+5 : 225
+6 : 167
+7 : 156
+8 : 325
+9 : 208
+10 : 208
+completed
+
+iteration : 317
+depth distribution
+0 : 0
+1 : 41
+2 : 836
+3 : 2393
+4 : 405
+5 : 255
+6 : 219
+7 : 135
+8 : 338
+9 : 198
+10 : 180
+completed
+
+iteration : 318
+depth distribution
+0 : 1
+1 : 29
+2 : 856
+3 : 2411
+4 : 394
+5 : 263
+6 : 209
+7 : 129
+8 : 317
+9 : 234
+10 : 157
+completed
+
+iteration : 319
+depth distribution
+0 : 0
+1 : 18
+2 : 823
+3 : 2473
+4 : 379
+5 : 236
+6 : 194
+7 : 135
+8 : 332
+9 : 211
+10 : 199
+completed
+
+iteration : 320
+depth distribution
+0 : 0
+1 : 10
+2 : 791
+3 : 2483
+4 : 393
+5 : 231
+6 : 178
+7 : 146
+8 : 352
+9 : 222
+10 : 194
+completed
+
+iteration : 321
+depth distribution
+0 : 1
+1 : 11
+2 : 744
+3 : 2560
+4 : 406
+5 : 244
+6 : 155
+7 : 136
+8 : 333
+9 : 220
+10 : 190
+completed
+
+iteration : 322
+depth distribution
+0 : 5
+1 : 14
+2 : 725
+3 : 2547
+4 : 375
+5 : 273
+6 : 167
+7 : 148
+8 : 335
+9 : 229
+10 : 182
+completed
+
+iteration : 323
+depth distribution
+0 : 2
+1 : 29
+2 : 708
+3 : 2501
+4 : 345
+5 : 289
+6 : 191
+7 : 129
+8 : 353
+9 : 252
+10 : 201
+completed
+
+iteration : 324
+depth distribution
+0 : 5
+1 : 25
+2 : 714
+3 : 2579
+4 : 329
+5 : 280
+6 : 159
+7 : 120
+8 : 365
+9 : 228
+10 : 196
+completed
+
+iteration : 325
+depth distribution
+0 : 5
+1 : 16
+2 : 729
+3 : 2585
+4 : 375
+5 : 262
+6 : 191
+7 : 117
+8 : 341
+9 : 219
+10 : 160
+completed
+
+iteration : 326
+depth distribution
+0 : 0
+1 : 16
+2 : 799
+3 : 2550
+4 : 371
+5 : 238
+6 : 168
+7 : 137
+8 : 337
+9 : 226
+10 : 158
+completed
+
+iteration : 327
+depth distribution
+0 : 2
+1 : 24
+2 : 804
+3 : 2591
+4 : 386
+5 : 220
+6 : 157
+7 : 142
+8 : 314
+9 : 201
+10 : 159
+completed
+
+iteration : 328
+depth distribution
+0 : 2
+1 : 27
+2 : 876
+3 : 2496
+4 : 372
+5 : 228
+6 : 167
+7 : 119
+8 : 318
+9 : 225
+10 : 170
+completed
+
+iteration : 329
+depth distribution
+0 : 1
+1 : 9
+2 : 902
+3 : 2481
+4 : 313
+5 : 222
+6 : 201
+7 : 126
+8 : 341
+9 : 225
+10 : 179
+completed
+
+iteration : 330
+depth distribution
+0 : 0
+1 : 10
+2 : 902
+3 : 2464
+4 : 330
+5 : 251
+6 : 183
+7 : 123
+8 : 338
+9 : 216
+10 : 183
+completed
+
+iteration : 331
+depth distribution
+0 : 1
+1 : 16
+2 : 907
+3 : 2493
+4 : 276
+5 : 280
+6 : 173
+7 : 125
+8 : 335
+9 : 219
+10 : 175
+completed
+
+iteration : 332
+depth distribution
+0 : 3
+1 : 23
+2 : 916
+3 : 2520
+4 : 272
+5 : 271
+6 : 131
+7 : 153
+8 : 299
+9 : 209
+10 : 203
+completed
+
+iteration : 333
+depth distribution
+0 : 1
+1 : 42
+2 : 888
+3 : 2455
+4 : 304
+5 : 285
+6 : 157
+7 : 123
+8 : 340
+9 : 227
+10 : 178
+completed
+
+iteration : 334
+depth distribution
+0 : 0
+1 : 53
+2 : 787
+3 : 2419
+4 : 389
+5 : 296
+6 : 163
+7 : 140
+8 : 314
+9 : 252
+10 : 187
+completed
+
+iteration : 335
+depth distribution
+0 : 0
+1 : 35
+2 : 806
+3 : 2511
+4 : 348
+5 : 299
+6 : 143
+7 : 127
+8 : 300
+9 : 219
+10 : 212
+completed
+
+iteration : 336
+depth distribution
+0 : 1
+1 : 39
+2 : 783
+3 : 2542
+4 : 323
+5 : 301
+6 : 155
+7 : 129
+8 : 320
+9 : 209
+10 : 198
+completed
+
+iteration : 337
+depth distribution
+0 : 2
+1 : 25
+2 : 737
+3 : 2598
+4 : 317
+5 : 296
+6 : 163
+7 : 117
+8 : 307
+9 : 243
+10 : 195
+completed
+
+iteration : 338
+depth distribution
+0 : 0
+1 : 33
+2 : 718
+3 : 2575
+4 : 393
+5 : 316
+6 : 155
+7 : 109
+8 : 310
+9 : 212
+10 : 179
+completed
+
+iteration : 339
+depth distribution
+0 : 0
+1 : 22
+2 : 718
+3 : 2581
+4 : 385
+5 : 312
+6 : 154
+7 : 137
+8 : 298
+9 : 213
+10 : 180
+completed
+
+iteration : 340
+depth distribution
+0 : 1
+1 : 15
+2 : 735
+3 : 2577
+4 : 446
+5 : 273
+6 : 184
+7 : 105
+8 : 290
+9 : 200
+10 : 174
+completed
+
+iteration : 341
+depth distribution
+0 : 0
+1 : 9
+2 : 750
+3 : 2540
+4 : 471
+5 : 279
+6 : 161
+7 : 118
+8 : 279
+9 : 225
+10 : 168
+completed
+
+iteration : 342
+depth distribution
+0 : 0
+1 : 13
+2 : 784
+3 : 2513
+4 : 490
+5 : 265
+6 : 133
+7 : 108
+8 : 315
+9 : 220
+10 : 159
+completed
+
+iteration : 343
+depth distribution
+0 : 0
+1 : 15
+2 : 724
+3 : 2579
+4 : 479
+5 : 251
+6 : 113
+7 : 133
+8 : 318
+9 : 214
+10 : 174
+completed
+
+iteration : 344
+depth distribution
+0 : 1
+1 : 16
+2 : 741
+3 : 2497
+4 : 444
+5 : 297
+6 : 156
+7 : 124
+8 : 317
+9 : 222
+10 : 185
+completed
+
+iteration : 345
+depth distribution
+0 : 1
+1 : 8
+2 : 729
+3 : 2537
+4 : 455
+5 : 283
+6 : 168
+7 : 128
+8 : 267
+9 : 249
+10 : 175
+completed
+
+iteration : 346
+depth distribution
+0 : 0
+1 : 17
+2 : 757
+3 : 2504
+4 : 454
+5 : 294
+6 : 173
+7 : 128
+8 : 301
+9 : 207
+10 : 165
+completed
+
+iteration : 347
+depth distribution
+0 : 1
+1 : 35
+2 : 754
+3 : 2489
+4 : 446
+5 : 318
+6 : 164
+7 : 130
+8 : 287
+9 : 227
+10 : 149
+completed
+
+iteration : 348
+depth distribution
+0 : 4
+1 : 41
+2 : 773
+3 : 2464
+4 : 465
+5 : 324
+6 : 152
+7 : 133
+8 : 291
+9 : 198
+10 : 155
+completed
+
+iteration : 349
+depth distribution
+0 : 0
+1 : 28
+2 : 769
+3 : 2440
+4 : 480
+5 : 304
+6 : 152
+7 : 144
+8 : 302
+9 : 213
+10 : 168
+completed
+
+iteration : 350
+depth distribution
+0 : 3
+1 : 27
+2 : 753
+3 : 2425
+4 : 523
+5 : 305
+6 : 158
+7 : 145
+8 : 266
+9 : 205
+10 : 190
+completed
+
+iteration : 351
+depth distribution
+0 : 1
+1 : 44
+2 : 713
+3 : 2480
+4 : 484
+5 : 284
+6 : 166
+7 : 134
+8 : 298
+9 : 202
+10 : 194
+completed
+
+iteration : 352
+depth distribution
+0 : 0
+1 : 53
+2 : 672
+3 : 2487
+4 : 547
+5 : 264
+6 : 158
+7 : 132
+8 : 291
+9 : 192
+10 : 204
+completed
+
+iteration : 353
+depth distribution
+0 : 1
+1 : 67
+2 : 653
+3 : 2501
+4 : 548
+5 : 255
+6 : 169
+7 : 162
+8 : 273
+9 : 183
+10 : 188
+completed
+
+iteration : 354
+depth distribution
+0 : 1
+1 : 62
+2 : 639
+3 : 2479
+4 : 605
+5 : 251
+6 : 167
+7 : 127
+8 : 299
+9 : 201
+10 : 169
+completed
+
+iteration : 355
+depth distribution
+0 : 0
+1 : 45
+2 : 624
+3 : 2547
+4 : 571
+5 : 215
+6 : 152
+7 : 143
+8 : 313
+9 : 194
+10 : 196
+completed
+
+iteration : 356
+depth distribution
+0 : 0
+1 : 45
+2 : 670
+3 : 2548
+4 : 520
+5 : 235
+6 : 165
+7 : 142
+8 : 328
+9 : 189
+10 : 158
+completed
+
+iteration : 357
+depth distribution
+0 : 0
+1 : 56
+2 : 676
+3 : 2550
+4 : 490
+5 : 230
+6 : 174
+7 : 131
+8 : 317
+9 : 225
+10 : 151
+completed
+
+iteration : 358
+depth distribution
+0 : 0
+1 : 47
+2 : 715
+3 : 2537
+4 : 451
+5 : 246
+6 : 164
+7 : 151
+8 : 297
+9 : 213
+10 : 179
+completed
+
+iteration : 359
+depth distribution
+0 : 3
+1 : 48
+2 : 721
+3 : 2544
+4 : 490
+5 : 228
+6 : 176
+7 : 139
+8 : 274
+9 : 205
+10 : 172
+completed
+
+iteration : 360
+depth distribution
+0 : 3
+1 : 33
+2 : 699
+3 : 2512
+4 : 512
+5 : 228
+6 : 164
+7 : 134
+8 : 311
+9 : 197
+10 : 207
+completed
+
+iteration : 361
+depth distribution
+0 : 1
+1 : 37
+2 : 740
+3 : 2489
+4 : 508
+5 : 206
+6 : 222
+7 : 126
+8 : 307
+9 : 189
+10 : 175
+completed
+
+iteration : 362
+depth distribution
+0 : 0
+1 : 31
+2 : 760
+3 : 2512
+4 : 485
+5 : 231
+6 : 203
+7 : 146
+8 : 255
+9 : 191
+10 : 186
+completed
+
+iteration : 363
+depth distribution
+0 : 1
+1 : 29
+2 : 783
+3 : 2493
+4 : 519
+5 : 196
+6 : 181
+7 : 135
+8 : 285
+9 : 189
+10 : 189
+completed
+
+iteration : 364
+depth distribution
+0 : 0
+1 : 26
+2 : 744
+3 : 2503
+4 : 552
+5 : 208
+6 : 162
+7 : 158
+8 : 302
+9 : 191
+10 : 154
+completed
+
+iteration : 365
+depth distribution
+0 : 0
+1 : 37
+2 : 744
+3 : 2531
+4 : 531
+5 : 198
+6 : 164
+7 : 137
+8 : 308
+9 : 183
+10 : 167
+completed
+
+iteration : 366
+depth distribution
+0 : 0
+1 : 29
+2 : 715
+3 : 2509
+4 : 550
+5 : 234
+6 : 176
+7 : 128
+8 : 298
+9 : 196
+10 : 165
+completed
+
+iteration : 367
+depth distribution
+0 : 4
+1 : 17
+2 : 688
+3 : 2600
+4 : 551
+5 : 214
+6 : 160
+7 : 124
+8 : 264
+9 : 200
+10 : 178
+completed
+
+iteration : 368
+depth distribution
+0 : 1
+1 : 6
+2 : 728
+3 : 2629
+4 : 460
+5 : 203
+6 : 186
+7 : 132
+8 : 301
+9 : 191
+10 : 163
+completed
+
+iteration : 369
+depth distribution
+0 : 0
+1 : 17
+2 : 702
+3 : 2649
+4 : 476
+5 : 213
+6 : 177
+7 : 133
+8 : 286
+9 : 227
+10 : 120
+completed
+
+iteration : 370
+depth distribution
+0 : 2
+1 : 17
+2 : 700
+3 : 2617
+4 : 520
+5 : 215
+6 : 168
+7 : 133
+8 : 271
+9 : 205
+10 : 152
+completed
+
+iteration : 371
+depth distribution
+0 : 0
+1 : 18
+2 : 726
+3 : 2577
+4 : 500
+5 : 207
+6 : 175
+7 : 147
+8 : 305
+9 : 198
+10 : 147
+completed
+
+iteration : 372
+depth distribution
+0 : 1
+1 : 19
+2 : 698
+3 : 2641
+4 : 493
+5 : 179
+6 : 165
+7 : 125
+8 : 302
+9 : 196
+10 : 181
+completed
+
+iteration : 373
+depth distribution
+0 : 0
+1 : 15
+2 : 725
+3 : 2601
+4 : 492
+5 : 168
+6 : 195
+7 : 123
+8 : 306
+9 : 225
+10 : 150
+completed
+
+iteration : 374
+depth distribution
+0 : 1
+1 : 9
+2 : 771
+3 : 2577
+4 : 419
+5 : 175
+6 : 206
+7 : 153
+8 : 347
+9 : 171
+10 : 171
+completed
+
+iteration : 375
+depth distribution
+0 : 0
+1 : 10
+2 : 791
+3 : 2576
+4 : 439
+5 : 175
+6 : 179
+7 : 131
+8 : 325
+9 : 215
+10 : 159
+completed
+
+iteration : 376
+depth distribution
+0 : 1
+1 : 8
+2 : 754
+3 : 2606
+4 : 443
+5 : 191
+6 : 199
+7 : 136
+8 : 298
+9 : 189
+10 : 175
+completed
+
+iteration : 377
+depth distribution
+0 : 0
+1 : 9
+2 : 743
+3 : 2624
+4 : 435
+5 : 192
+6 : 178
+7 : 145
+8 : 329
+9 : 203
+10 : 142
+completed
+
+iteration : 378
+depth distribution
+0 : 0
+1 : 15
+2 : 753
+3 : 2598
+4 : 454
+5 : 216
+6 : 171
+7 : 121
+8 : 339
+9 : 196
+10 : 137
+completed
+
+iteration : 379
+depth distribution
+0 : 0
+1 : 30
+2 : 739
+3 : 2562
+4 : 462
+5 : 224
+6 : 173
+7 : 125
+8 : 337
+9 : 197
+10 : 151
+completed
+
+iteration : 380
+depth distribution
+0 : 1
+1 : 34
+2 : 701
+3 : 2578
+4 : 493
+5 : 223
+6 : 179
+7 : 161
+8 : 304
+9 : 187
+10 : 139
+completed
+
+iteration : 381
+depth distribution
+0 : 0
+1 : 23
+2 : 670
+3 : 2590
+4 : 504
+5 : 223
+6 : 162
+7 : 146
+8 : 309
+9 : 212
+10 : 161
+completed
+
+iteration : 382
+depth distribution
+0 : 0
+1 : 35
+2 : 626
+3 : 2644
+4 : 506
+5 : 210
+6 : 179
+7 : 131
+8 : 322
+9 : 190
+10 : 157
+completed
+
+iteration : 383
+depth distribution
+0 : 0
+1 : 32
+2 : 667
+3 : 2543
+4 : 519
+5 : 212
+6 : 172
+7 : 154
+8 : 327
+9 : 215
+10 : 159
+completed
+
+iteration : 384
+depth distribution
+0 : 0
+1 : 54
+2 : 758
+3 : 2404
+4 : 505
+5 : 225
+6 : 166
+7 : 168
+8 : 342
+9 : 223
+10 : 155
+completed
+
+iteration : 385
+depth distribution
+0 : 0
+1 : 44
+2 : 803
+3 : 2325
+4 : 514
+5 : 275
+6 : 156
+7 : 140
+8 : 348
+9 : 226
+10 : 169
+completed
+
+iteration : 386
+depth distribution
+0 : 1
+1 : 44
+2 : 772
+3 : 2315
+4 : 554
+5 : 276
+6 : 174
+7 : 133
+8 : 338
+9 : 222
+10 : 171
+completed
+
+iteration : 387
+depth distribution
+0 : 0
+1 : 18
+2 : 746
+3 : 2434
+4 : 511
+5 : 264
+6 : 185
+7 : 145
+8 : 319
+9 : 216
+10 : 162
+completed
+
+iteration : 388
+depth distribution
+0 : 0
+1 : 13
+2 : 751
+3 : 2434
+4 : 444
+5 : 288
+6 : 189
+7 : 167
+8 : 343
+9 : 210
+10 : 161
+completed
+
+iteration : 389
+depth distribution
+0 : 1
+1 : 16
+2 : 726
+3 : 2496
+4 : 442
+5 : 267
+6 : 192
+7 : 134
+8 : 320
+9 : 212
+10 : 194
+completed
+
+iteration : 390
+depth distribution
+0 : 3
+1 : 31
+2 : 616
+3 : 2544
+4 : 469
+5 : 281
+6 : 193
+7 : 149
+8 : 307
+9 : 236
+10 : 171
+completed
+
+iteration : 391
+depth distribution
+0 : 0
+1 : 31
+2 : 559
+3 : 2558
+4 : 488
+5 : 265
+6 : 205
+7 : 161
+8 : 313
+9 : 232
+10 : 188
+completed
+
+iteration : 392
+depth distribution
+0 : 0
+1 : 30
+2 : 595
+3 : 2522
+4 : 528
+5 : 250
+6 : 206
+7 : 154
+8 : 314
+9 : 228
+10 : 173
+completed
+
+iteration : 393
+depth distribution
+0 : 0
+1 : 34
+2 : 567
+3 : 2588
+4 : 488
+5 : 258
+6 : 184
+7 : 154
+8 : 314
+9 : 238
+10 : 175
+completed
+
+iteration : 394
+depth distribution
+0 : 2
+1 : 45
+2 : 524
+3 : 2657
+4 : 479
+5 : 280
+6 : 174
+7 : 134
+8 : 303
+9 : 228
+10 : 174
+completed
+
+iteration : 395
+depth distribution
+0 : 0
+1 : 44
+2 : 499
+3 : 2685
+4 : 469
+5 : 277
+6 : 166
+7 : 131
+8 : 283
+9 : 259
+10 : 187
+completed
+
+iteration : 396
+depth distribution
+0 : 0
+1 : 27
+2 : 484
+3 : 2654
+4 : 493
+5 : 250
+6 : 184
+7 : 136
+8 : 304
+9 : 286
+10 : 182
+completed
+
+iteration : 397
+depth distribution
+0 : 0
+1 : 30
+2 : 468
+3 : 2689
+4 : 532
+5 : 240
+6 : 149
+7 : 134
+8 : 286
+9 : 253
+10 : 219
+completed
+
+iteration : 398
+depth distribution
+0 : 0
+1 : 27
+2 : 541
+3 : 2630
+4 : 509
+5 : 220
+6 : 165
+7 : 156
+8 : 318
+9 : 257
+10 : 177
+completed
+
+iteration : 399
+depth distribution
+0 : 0
+1 : 32
+2 : 561
+3 : 2619
+4 : 468
+5 : 231
+6 : 178
+7 : 146
+8 : 351
+9 : 220
+10 : 194
+completed
+
+iteration : 400
+depth distribution
+0 : 1
+1 : 18
+2 : 599
+3 : 2635
+4 : 453
+5 : 263
+6 : 201
+7 : 147
+8 : 295
+9 : 212
+10 : 176
+completed
+
+iteration : 401
+depth distribution
+0 : 1
+1 : 18
+2 : 625
+3 : 2648
+4 : 427
+5 : 231
+6 : 190
+7 : 130
+8 : 325
+9 : 217
+10 : 188
+completed
+
+iteration : 402
+depth distribution
+0 : 0
+1 : 12
+2 : 648
+3 : 2670
+4 : 409
+5 : 237
+6 : 185
+7 : 128
+8 : 304
+9 : 202
+10 : 205
+completed
+
+iteration : 403
+depth distribution
+0 : 0
+1 : 19
+2 : 615
+3 : 2667
+4 : 447
+5 : 265
+6 : 182
+7 : 114
+8 : 304
+9 : 210
+10 : 177
+completed
+
+iteration : 404
+depth distribution
+0 : 0
+1 : 10
+2 : 585
+3 : 2744
+4 : 505
+5 : 232
+6 : 179
+7 : 113
+8 : 265
+9 : 187
+10 : 180
+completed
+
+iteration : 405
+depth distribution
+0 : 0
+1 : 23
+2 : 617
+3 : 2761
+4 : 425
+5 : 211
+6 : 151
+7 : 120
+8 : 294
+9 : 225
+10 : 173
+completed
+
+iteration : 406
+depth distribution
+0 : 0
+1 : 32
+2 : 655
+3 : 2697
+4 : 467
+5 : 199
+6 : 160
+7 : 94
+8 : 283
+9 : 224
+10 : 189
+completed
+
+iteration : 407
+depth distribution
+0 : 1
+1 : 36
+2 : 680
+3 : 2661
+4 : 497
+5 : 170
+6 : 152
+7 : 128
+8 : 294
+9 : 207
+10 : 174
+completed
+
+iteration : 408
+depth distribution
+0 : 1
+1 : 31
+2 : 614
+3 : 2674
+4 : 543
+5 : 203
+6 : 150
+7 : 110
+8 : 295
+9 : 219
+10 : 160
+completed
+
+iteration : 409
+depth distribution
+0 : 0
+1 : 28
+2 : 602
+3 : 2761
+4 : 463
+5 : 207
+6 : 165
+7 : 129
+8 : 295
+9 : 184
+10 : 166
+completed
+
+iteration : 410
+depth distribution
+0 : 1
+1 : 40
+2 : 639
+3 : 2694
+4 : 444
+5 : 223
+6 : 165
+7 : 116
+8 : 298
+9 : 202
+10 : 178
+completed
+
+iteration : 411
+depth distribution
+0 : 3
+1 : 53
+2 : 629
+3 : 2724
+4 : 451
+5 : 219
+6 : 137
+7 : 125
+8 : 281
+9 : 224
+10 : 154
+completed
+
+iteration : 412
+depth distribution
+0 : 1
+1 : 47
+2 : 597
+3 : 2702
+4 : 499
+5 : 208
+6 : 142
+7 : 143
+8 : 320
+9 : 200
+10 : 141
+completed
+
+iteration : 413
+depth distribution
+0 : 1
+1 : 54
+2 : 514
+3 : 2789
+4 : 439
+5 : 211
+6 : 154
+7 : 146
+8 : 294
+9 : 215
+10 : 183
+completed
+
+iteration : 414
+depth distribution
+0 : 0
+1 : 82
+2 : 526
+3 : 2781
+4 : 417
+5 : 221
+6 : 161
+7 : 134
+8 : 292
+9 : 212
+10 : 174
+completed
+
+iteration : 415
+depth distribution
+0 : 1
+1 : 91
+2 : 538
+3 : 2760
+4 : 435
+5 : 191
+6 : 155
+7 : 131
+8 : 305
+9 : 222
+10 : 171
+completed
+
+iteration : 416
+depth distribution
+0 : 0
+1 : 84
+2 : 493
+3 : 2804
+4 : 492
+5 : 186
+6 : 157
+7 : 103
+8 : 292
+9 : 207
+10 : 182
+completed
+
+iteration : 417
+depth distribution
+0 : 1
+1 : 107
+2 : 490
+3 : 2745
+4 : 474
+5 : 258
+6 : 148
+7 : 122
+8 : 299
+9 : 183
+10 : 173
+completed
+
+iteration : 418
+depth distribution
+0 : 2
+1 : 88
+2 : 531
+3 : 2744
+4 : 410
+5 : 254
+6 : 140
+7 : 117
+8 : 300
+9 : 234
+10 : 180
+completed
+
+iteration : 419
+depth distribution
+0 : 0
+1 : 59
+2 : 508
+3 : 2820
+4 : 378
+5 : 236
+6 : 155
+7 : 135
+8 : 303
+9 : 220
+10 : 186
+completed
+
+iteration : 420
+depth distribution
+0 : 1
+1 : 74
+2 : 534
+3 : 2749
+4 : 389
+5 : 210
+6 : 158
+7 : 140
+8 : 299
+9 : 256
+10 : 190
+completed
+
+iteration : 421
+depth distribution
+0 : 3
+1 : 47
+2 : 498
+3 : 2860
+4 : 383
+5 : 195
+6 : 166
+7 : 143
+8 : 322
+9 : 216
+10 : 167
+completed
+
+iteration : 422
+depth distribution
+0 : 4
+1 : 31
+2 : 533
+3 : 2845
+4 : 392
+5 : 216
+6 : 154
+7 : 123
+8 : 308
+9 : 235
+10 : 159
+completed
+
+iteration : 423
+depth distribution
+0 : 0
+1 : 27
+2 : 566
+3 : 2704
+4 : 426
+5 : 263
+6 : 164
+7 : 122
+8 : 310
+9 : 243
+10 : 175
+completed
+
+iteration : 424
+depth distribution
+0 : 0
+1 : 17
+2 : 556
+3 : 2720
+4 : 421
+5 : 250
+6 : 166
+7 : 131
+8 : 338
+9 : 228
+10 : 173
+completed
+
+iteration : 425
+depth distribution
+0 : 0
+1 : 10
+2 : 576
+3 : 2742
+4 : 387
+5 : 268
+6 : 161
+7 : 140
+8 : 324
+9 : 213
+10 : 179
+completed
+
+iteration : 426
+depth distribution
+0 : 0
+1 : 9
+2 : 578
+3 : 2716
+4 : 421
+5 : 281
+6 : 151
+7 : 154
+8 : 282
+9 : 241
+10 : 167
+completed
+
+iteration : 427
+depth distribution
+0 : 0
+1 : 22
+2 : 542
+3 : 2738
+4 : 422
+5 : 255
+6 : 183
+7 : 159
+8 : 284
+9 : 229
+10 : 166
+completed
+
+iteration : 428
+depth distribution
+0 : 0
+1 : 18
+2 : 569
+3 : 2730
+4 : 478
+5 : 218
+6 : 161
+7 : 145
+8 : 328
+9 : 209
+10 : 144
+completed
+
+iteration : 429
+depth distribution
+0 : 2
+1 : 27
+2 : 594
+3 : 2655
+4 : 483
+5 : 215
+6 : 157
+7 : 145
+8 : 329
+9 : 215
+10 : 178
+completed
+
+iteration : 430
+depth distribution
+0 : 0
+1 : 40
+2 : 636
+3 : 2610
+4 : 457
+5 : 254
+6 : 142
+7 : 126
+8 : 335
+9 : 209
+10 : 191
+completed
+
+iteration : 431
+depth distribution
+0 : 0
+1 : 44
+2 : 642
+3 : 2566
+4 : 506
+5 : 231
+6 : 148
+7 : 137
+8 : 321
+9 : 222
+10 : 183
+completed
+
+iteration : 432
+depth distribution
+0 : 0
+1 : 33
+2 : 633
+3 : 2594
+4 : 477
+5 : 248
+6 : 145
+7 : 132
+8 : 330
+9 : 219
+10 : 189
+completed
+
+iteration : 433
+depth distribution
+0 : 1
+1 : 16
+2 : 663
+3 : 2522
+4 : 489
+5 : 266
+6 : 174
+7 : 152
+8 : 342
+9 : 210
+10 : 165
+completed
+
+iteration : 434
+depth distribution
+0 : 0
+1 : 8
+2 : 643
+3 : 2567
+4 : 463
+5 : 276
+6 : 165
+7 : 152
+8 : 339
+9 : 209
+10 : 178
+completed
+
+iteration : 435
+depth distribution
+0 : 0
+1 : 10
+2 : 645
+3 : 2620
+4 : 425
+5 : 274
+6 : 164
+7 : 112
+8 : 372
+9 : 232
+10 : 146
+completed
+
+iteration : 436
+depth distribution
+0 : 0
+1 : 10
+2 : 601
+3 : 2657
+4 : 458
+5 : 258
+6 : 158
+7 : 105
+8 : 371
+9 : 220
+10 : 162
+completed
+
+iteration : 437
+depth distribution
+0 : 0
+1 : 39
+2 : 592
+3 : 2611
+4 : 458
+5 : 273
+6 : 188
+7 : 99
+8 : 346
+9 : 213
+10 : 181
+completed
+
+iteration : 438
+depth distribution
+0 : 0
+1 : 40
+2 : 598
+3 : 2581
+4 : 496
+5 : 223
+6 : 185
+7 : 141
+8 : 337
+9 : 225
+10 : 174
+completed
+
+iteration : 439
+depth distribution
+0 : 0
+1 : 20
+2 : 589
+3 : 2632
+4 : 466
+5 : 214
+6 : 154
+7 : 152
+8 : 356
+9 : 220
+10 : 197
+completed
+
+iteration : 440
+depth distribution
+0 : 0
+1 : 19
+2 : 558
+3 : 2717
+4 : 444
+5 : 209
+6 : 147
+7 : 145
+8 : 369
+9 : 221
+10 : 171
+completed
+
+iteration : 441
+depth distribution
+0 : 0
+1 : 22
+2 : 535
+3 : 2683
+4 : 484
+5 : 203
+6 : 182
+7 : 168
+8 : 367
+9 : 200
+10 : 156
+completed
+
+iteration : 442
+depth distribution
+0 : 2
+1 : 13
+2 : 470
+3 : 2687
+4 : 534
+5 : 219
+6 : 194
+7 : 143
+8 : 347
+9 : 212
+10 : 179
+completed
+
+iteration : 443
+depth distribution
+0 : 0
+1 : 17
+2 : 466
+3 : 2720
+4 : 542
+5 : 199
+6 : 181
+7 : 151
+8 : 319
+9 : 240
+10 : 165
+completed
+
+iteration : 444
+depth distribution
+0 : 0
+1 : 14
+2 : 560
+3 : 2672
+4 : 517
+5 : 242
+6 : 182
+7 : 92
+8 : 320
+9 : 206
+10 : 195
+completed
+
+iteration : 445
+depth distribution
+0 : 1
+1 : 14
+2 : 542
+3 : 2600
+4 : 569
+5 : 203
+6 : 199
+7 : 140
+8 : 317
+9 : 209
+10 : 206
+completed
+
+iteration : 446
+depth distribution
+0 : 0
+1 : 9
+2 : 558
+3 : 2641
+4 : 481
+5 : 242
+6 : 196
+7 : 148
+8 : 309
+9 : 232
+10 : 184
+completed
+
+iteration : 447
+depth distribution
+0 : 0
+1 : 13
+2 : 577
+3 : 2630
+4 : 465
+5 : 234
+6 : 195
+7 : 172
+8 : 310
+9 : 201
+10 : 203
+completed
+
+iteration : 448
+depth distribution
+0 : 1
+1 : 11
+2 : 661
+3 : 2595
+4 : 486
+5 : 275
+6 : 159
+7 : 128
+8 : 295
+9 : 210
+10 : 179
+completed
+
+iteration : 449
+depth distribution
+0 : 0
+1 : 16
+2 : 603
+3 : 2721
+4 : 439
+5 : 264
+6 : 153
+7 : 127
+8 : 314
+9 : 195
+10 : 168
+completed
+
+iteration : 450
+depth distribution
+0 : 1
+1 : 29
+2 : 675
+3 : 2698
+4 : 377
+5 : 279
+6 : 141
+7 : 99
+8 : 315
+9 : 224
+10 : 162
+completed
+
+iteration : 451
+depth distribution
+0 : 0
+1 : 16
+2 : 689
+3 : 2705
+4 : 364
+5 : 273
+6 : 158
+7 : 143
+8 : 290
+9 : 206
+10 : 156
+completed
+
+iteration : 452
+depth distribution
+0 : 1
+1 : 17
+2 : 679
+3 : 2667
+4 : 419
+5 : 266
+6 : 190
+7 : 118
+8 : 307
+9 : 196
+10 : 140
+completed
+
+iteration : 453
+depth distribution
+0 : 4
+1 : 12
+2 : 694
+3 : 2637
+4 : 419
+5 : 259
+6 : 212
+7 : 117
+8 : 258
+9 : 222
+10 : 166
+completed
+
+iteration : 454
+depth distribution
+0 : 5
+1 : 10
+2 : 723
+3 : 2546
+4 : 468
+5 : 253
+6 : 192
+7 : 121
+8 : 312
+9 : 197
+10 : 173
+completed
+
+iteration : 455
+depth distribution
+0 : 1
+1 : 15
+2 : 727
+3 : 2534
+4 : 488
+5 : 218
+6 : 204
+7 : 118
+8 : 326
+9 : 209
+10 : 160
+completed
+
+iteration : 456
+depth distribution
+0 : 0
+1 : 22
+2 : 689
+3 : 2567
+4 : 533
+5 : 235
+6 : 146
+7 : 121
+8 : 301
+9 : 205
+10 : 181
+completed
+
+iteration : 457
+depth distribution
+0 : 3
+1 : 23
+2 : 754
+3 : 2562
+4 : 528
+5 : 213
+6 : 147
+7 : 111
+8 : 269
+9 : 226
+10 : 164
+completed
+
+iteration : 458
+depth distribution
+0 : 3
+1 : 36
+2 : 767
+3 : 2564
+4 : 521
+5 : 167
+6 : 174
+7 : 121
+8 : 286
+9 : 194
+10 : 167
+completed
+
+iteration : 459
+depth distribution
+0 : 1
+1 : 31
+2 : 729
+3 : 2523
+4 : 557
+5 : 186
+6 : 181
+7 : 126
+8 : 308
+9 : 193
+10 : 165
+completed
+
+iteration : 460
+depth distribution
+0 : 0
+1 : 34
+2 : 735
+3 : 2532
+4 : 494
+5 : 220
+6 : 174
+7 : 144
+8 : 302
+9 : 196
+10 : 169
+completed
+
+iteration : 461
+depth distribution
+0 : 0
+1 : 30
+2 : 780
+3 : 2510
+4 : 511
+5 : 187
+6 : 186
+7 : 126
+8 : 321
+9 : 195
+10 : 154
+completed
+
+iteration : 462
+depth distribution
+0 : 0
+1 : 20
+2 : 757
+3 : 2514
+4 : 564
+5 : 191
+6 : 142
+7 : 115
+8 : 316
+9 : 209
+10 : 172
+completed
+
+iteration : 463
+depth distribution
+0 : 1
+1 : 17
+2 : 775
+3 : 2574
+4 : 505
+5 : 213
+6 : 146
+7 : 141
+8 : 266
+9 : 200
+10 : 162
+completed
+
+iteration : 464
+depth distribution
+0 : 1
+1 : 22
+2 : 801
+3 : 2565
+4 : 472
+5 : 178
+6 : 163
+7 : 129
+8 : 283
+9 : 195
+10 : 191
+completed
+
+iteration : 465
+depth distribution
+0 : 0
+1 : 12
+2 : 765
+3 : 2630
+4 : 462
+5 : 181
+6 : 145
+7 : 126
+8 : 292
+9 : 214
+10 : 173
+completed
+
+iteration : 466
+depth distribution
+0 : 0
+1 : 8
+2 : 786
+3 : 2638
+4 : 423
+5 : 207
+6 : 129
+7 : 136
+8 : 289
+9 : 216
+10 : 168
+completed
+
+iteration : 467
+depth distribution
+0 : 0
+1 : 14
+2 : 799
+3 : 2570
+4 : 480
+5 : 199
+6 : 148
+7 : 138
+8 : 315
+9 : 182
+10 : 155
+completed
+
+iteration : 468
+depth distribution
+0 : 0
+1 : 32
+2 : 822
+3 : 2581
+4 : 431
+5 : 212
+6 : 177
+7 : 104
+8 : 325
+9 : 160
+10 : 156
+completed
+
+iteration : 469
+depth distribution
+0 : 0
+1 : 38
+2 : 781
+3 : 2628
+4 : 366
+5 : 213
+6 : 176
+7 : 129
+8 : 320
+9 : 169
+10 : 180
+completed
+
+iteration : 470
+depth distribution
+0 : 1
+1 : 44
+2 : 788
+3 : 2596
+4 : 385
+5 : 216
+6 : 184
+7 : 148
+8 : 298
+9 : 179
+10 : 161
+completed
+
+iteration : 471
+depth distribution
+0 : 0
+1 : 38
+2 : 784
+3 : 2678
+4 : 370
+5 : 188
+6 : 125
+7 : 125
+8 : 342
+9 : 183
+10 : 167
+completed
+
+iteration : 472
+depth distribution
+0 : 0
+1 : 43
+2 : 776
+3 : 2695
+4 : 339
+5 : 183
+6 : 143
+7 : 156
+8 : 316
+9 : 198
+10 : 151
+completed
+
+iteration : 473
+depth distribution
+0 : 0
+1 : 49
+2 : 765
+3 : 2736
+4 : 308
+5 : 188
+6 : 155
+7 : 135
+8 : 304
+9 : 187
+10 : 173
+completed
+
+iteration : 474
+depth distribution
+0 : 0
+1 : 40
+2 : 797
+3 : 2708
+4 : 299
+5 : 207
+6 : 153
+7 : 153
+8 : 318
+9 : 164
+10 : 161
+completed
+
+iteration : 475
+depth distribution
+0 : 0
+1 : 37
+2 : 811
+3 : 2716
+4 : 323
+5 : 191
+6 : 163
+7 : 143
+8 : 277
+9 : 183
+10 : 156
+completed
+
+iteration : 476
+depth distribution
+0 : 0
+1 : 37
+2 : 834
+3 : 2723
+4 : 308
+5 : 166
+6 : 141
+7 : 139
+8 : 292
+9 : 186
+10 : 174
+completed
+
+iteration : 477
+depth distribution
+0 : 0
+1 : 27
+2 : 855
+3 : 2737
+4 : 262
+5 : 165
+6 : 157
+7 : 119
+8 : 319
+9 : 200
+10 : 159
+completed
+
+iteration : 478
+depth distribution
+0 : 0
+1 : 32
+2 : 817
+3 : 2788
+4 : 248
+5 : 163
+6 : 157
+7 : 123
+8 : 330
+9 : 205
+10 : 137
+completed
+
+iteration : 479
+depth distribution
+0 : 0
+1 : 33
+2 : 826
+3 : 2702
+4 : 253
+5 : 145
+6 : 187
+7 : 153
+8 : 357
+9 : 192
+10 : 152
+completed
+
+iteration : 480
+depth distribution
+0 : 0
+1 : 16
+2 : 857
+3 : 2677
+4 : 273
+5 : 155
+6 : 165
+7 : 137
+8 : 346
+9 : 214
+10 : 160
+completed
+
+iteration : 481
+depth distribution
+0 : 0
+1 : 13
+2 : 901
+3 : 2602
+4 : 251
+5 : 185
+6 : 152
+7 : 137
+8 : 369
+9 : 214
+10 : 176
+completed
+
+iteration : 482
+depth distribution
+0 : 0
+1 : 19
+2 : 1001
+3 : 2407
+4 : 301
+5 : 233
+6 : 133
+7 : 148
+8 : 330
+9 : 234
+10 : 194
+completed
+
+iteration : 483
+depth distribution
+0 : 1
+1 : 23
+2 : 1020
+3 : 2376
+4 : 339
+5 : 215
+6 : 163
+7 : 125
+8 : 328
+9 : 236
+10 : 174
+completed
+
+iteration : 484
+depth distribution
+0 : 3
+1 : 13
+2 : 944
+3 : 2485
+4 : 321
+5 : 197
+6 : 191
+7 : 123
+8 : 358
+9 : 207
+10 : 158
+completed
+
+iteration : 485
+depth distribution
+0 : 1
+1 : 9
+2 : 889
+3 : 2473
+4 : 346
+5 : 227
+6 : 149
+7 : 125
+8 : 362
+9 : 240
+10 : 179
+completed
+
+iteration : 486
+depth distribution
+0 : 1
+1 : 4
+2 : 958
+3 : 2401
+4 : 333
+5 : 229
+6 : 165
+7 : 136
+8 : 371
+9 : 228
+10 : 174
+completed
+
+iteration : 487
+depth distribution
+0 : 1
+1 : 4
+2 : 1025
+3 : 2357
+4 : 321
+5 : 239
+6 : 168
+7 : 133
+8 : 339
+9 : 230
+10 : 183
+completed
+
+iteration : 488
+depth distribution
+0 : 1
+1 : 3
+2 : 974
+3 : 2351
+4 : 343
+5 : 255
+6 : 200
+7 : 135
+8 : 355
+9 : 217
+10 : 166
+completed
+
+iteration : 489
+depth distribution
+0 : 0
+1 : 5
+2 : 928
+3 : 2347
+4 : 389
+5 : 261
+6 : 222
+7 : 128
+8 : 324
+9 : 220
+10 : 176
+completed
+
+iteration : 490
+depth distribution
+0 : 0
+1 : 11
+2 : 936
+3 : 2355
+4 : 381
+5 : 287
+6 : 192
+7 : 141
+8 : 293
+9 : 232
+10 : 172
+completed
+
+iteration : 491
+depth distribution
+0 : 0
+1 : 17
+2 : 966
+3 : 2362
+4 : 385
+5 : 256
+6 : 152
+7 : 140
+8 : 331
+9 : 221
+10 : 170
+completed
+
+iteration : 492
+depth distribution
+0 : 4
+1 : 39
+2 : 975
+3 : 2394
+4 : 366
+5 : 218
+6 : 143
+7 : 127
+8 : 296
+9 : 226
+10 : 212
+completed
+
+iteration : 493
+depth distribution
+0 : 0
+1 : 37
+2 : 1014
+3 : 2360
+4 : 356
+5 : 233
+6 : 138
+7 : 156
+8 : 328
+9 : 179
+10 : 199
+completed
+
+iteration : 494
+depth distribution
+0 : 0
+1 : 41
+2 : 1027
+3 : 2341
+4 : 353
+5 : 235
+6 : 136
+7 : 116
+8 : 342
+9 : 222
+10 : 187
+completed
+
+iteration : 495
+depth distribution
+0 : 1
+1 : 37
+2 : 1012
+3 : 2289
+4 : 385
+5 : 218
+6 : 153
+7 : 129
+8 : 369
+9 : 233
+10 : 174
+completed
+
+iteration : 496
+depth distribution
+0 : 0
+1 : 43
+2 : 1015
+3 : 2238
+4 : 389
+5 : 238
+6 : 158
+7 : 153
+8 : 358
+9 : 217
+10 : 191
+completed
+
+iteration : 497
+depth distribution
+0 : 0
+1 : 31
+2 : 1030
+3 : 2196
+4 : 432
+5 : 271
+6 : 157
+7 : 153
+8 : 340
+9 : 201
+10 : 189
+completed
+
+iteration : 498
+depth distribution
+0 : 0
+1 : 27
+2 : 1058
+3 : 2193
+4 : 439
+5 : 263
+6 : 179
+7 : 129
+8 : 344
+9 : 187
+10 : 181
+completed
+
+iteration : 499
+depth distribution
+0 : 0
+1 : 25
+2 : 1043
+3 : 2188
+4 : 432
+5 : 235
+6 : 200
+7 : 144
+8 : 314
+9 : 229
+10 : 190
+completed
+
+------------------
+Writing results...
+------------------
